@@ -1,0 +1,5001 @@
+id,person_a,person_b,outcome
+0,0,1,broken up
+1,2,3,broken up
+2,4,5,broken up
+3,6,7,broken up
+4,8,9,divorced
+5,10,11,broken up
+6,12,13,still dating
+7,14,15,broken up
+8,16,17,married
+9,18,19,married
+10,20,21,married
+11,22,23,broken up
+12,24,25,broken up
+13,26,27,broken up
+14,28,29,married
+15,30,31,broken up
+16,32,33,still dating
+17,34,35,broken up
+18,36,37,broken up
+19,38,39,married
+20,40,41,broken up
+21,42,43,broken up
+22,44,45,broken up
+23,46,47,broken up
+24,48,49,broken up
+25,50,51,married
+26,52,53,broken up
+27,54,55,married
+28,56,57,divorced
+29,58,59,married
+30,60,61,married
+31,62,63,broken up
+32,64,65,broken up
+33,66,67,married
+34,68,69,broken up
+35,70,71,broken up
+36,72,73,broken up
+37,74,75,broken up
+38,76,77,married
+39,78,79,still dating
+40,80,81,broken up
+41,82,83,broken up
+42,84,85,broken up
+43,86,87,still dating
+44,88,89,married
+45,90,91,broken up
+46,92,93,married
+47,94,95,still dating
+48,96,97,married
+49,98,99,broken up
+50,100,101,divorced
+51,102,103,divorced
+52,104,105,broken up
+53,106,107,broken up
+54,108,109,divorced
+55,110,111,broken up
+56,112,113,married
+57,114,115,married
+58,116,117,broken up
+59,118,119,divorced
+60,120,121,divorced
+61,122,123,broken up
+62,124,125,broken up
+63,126,127,broken up
+64,128,129,broken up
+65,130,131,married
+66,132,133,married
+67,134,135,broken up
+68,136,137,still dating
+69,138,139,broken up
+70,140,141,still dating
+71,142,143,broken up
+72,144,145,still dating
+73,146,147,married
+74,148,149,divorced
+75,150,151,divorced
+76,152,153,still dating
+77,154,155,married
+78,156,157,still dating
+79,158,159,divorced
+80,160,161,divorced
+81,162,163,divorced
+82,164,165,broken up
+83,166,167,married
+84,168,169,divorced
+85,170,171,broken up
+86,172,173,still dating
+87,174,175,married
+88,176,177,still dating
+89,178,179,married
+90,180,181,still dating
+91,182,183,broken up
+92,184,185,broken up
+93,186,187,broken up
+94,188,189,broken up
+95,190,191,broken up
+96,192,193,married
+97,194,195,broken up
+98,196,197,divorced
+99,198,199,divorced
+100,200,201,married
+101,202,203,broken up
+102,204,205,divorced
+103,206,207,married
+104,208,209,married
+105,210,211,broken up
+106,212,213,broken up
+107,214,215,divorced
+108,216,217,broken up
+109,218,219,broken up
+110,220,221,broken up
+111,222,223,divorced
+112,224,225,broken up
+113,226,227,broken up
+114,228,229,married
+115,230,231,divorced
+116,232,233,still dating
+117,234,235,broken up
+118,236,237,still dating
+119,238,239,broken up
+120,240,241,broken up
+121,242,243,broken up
+122,244,245,broken up
+123,246,247,divorced
+124,248,249,broken up
+125,250,251,still dating
+126,252,253,broken up
+127,254,255,married
+128,256,257,still dating
+129,258,259,broken up
+130,260,261,broken up
+131,262,263,broken up
+132,264,265,married
+133,266,267,married
+134,268,269,broken up
+135,270,271,married
+136,272,273,still dating
+137,274,275,divorced
+138,276,277,broken up
+139,278,279,broken up
+140,280,281,married
+141,282,283,broken up
+142,284,285,still dating
+143,286,287,married
+144,288,289,broken up
+145,290,291,broken up
+146,292,293,broken up
+147,294,295,broken up
+148,296,297,married
+149,298,299,broken up
+150,300,301,divorced
+151,302,303,married
+152,304,305,broken up
+153,306,307,broken up
+154,308,309,divorced
+155,310,311,broken up
+156,312,313,broken up
+157,314,315,broken up
+158,316,317,divorced
+159,318,319,married
+160,320,321,married
+161,322,323,broken up
+162,324,325,broken up
+163,326,327,divorced
+164,328,329,married
+165,330,331,broken up
+166,332,333,broken up
+167,334,335,still dating
+168,336,337,broken up
+169,338,339,divorced
+170,340,341,broken up
+171,342,343,divorced
+172,344,345,divorced
+173,346,347,broken up
+174,348,349,broken up
+175,350,351,married
+176,352,353,broken up
+177,354,355,broken up
+178,356,357,broken up
+179,358,359,still dating
+180,360,361,married
+181,362,363,broken up
+182,364,365,divorced
+183,366,367,broken up
+184,368,369,broken up
+185,370,371,divorced
+186,372,373,divorced
+187,374,375,broken up
+188,376,377,broken up
+189,378,379,divorced
+190,380,381,broken up
+191,382,383,married
+192,384,385,divorced
+193,386,387,broken up
+194,388,389,broken up
+195,390,391,still dating
+196,392,393,divorced
+197,394,395,broken up
+198,396,397,broken up
+199,398,399,married
+200,400,401,still dating
+201,402,403,broken up
+202,404,405,still dating
+203,406,407,broken up
+204,408,409,broken up
+205,410,411,broken up
+206,412,413,broken up
+207,414,415,broken up
+208,416,417,divorced
+209,418,419,married
+210,420,421,married
+211,422,423,broken up
+212,424,425,married
+213,426,427,married
+214,428,429,still dating
+215,430,431,married
+216,432,433,divorced
+217,434,435,married
+218,436,437,broken up
+219,438,439,divorced
+220,440,441,broken up
+221,442,443,still dating
+222,444,445,married
+223,446,447,married
+224,448,449,still dating
+225,450,451,broken up
+226,452,453,broken up
+227,454,455,married
+228,456,457,broken up
+229,458,459,still dating
+230,460,461,still dating
+231,462,463,broken up
+232,464,465,married
+233,466,467,married
+234,468,469,married
+235,470,471,broken up
+236,472,473,still dating
+237,474,475,broken up
+238,476,477,divorced
+239,478,479,divorced
+240,480,481,married
+241,482,483,broken up
+242,484,485,broken up
+243,486,487,broken up
+244,488,489,married
+245,490,491,married
+246,492,493,broken up
+247,494,495,still dating
+248,496,497,broken up
+249,498,499,broken up
+250,500,501,broken up
+251,502,503,broken up
+252,504,505,still dating
+253,506,507,married
+254,508,509,still dating
+255,510,511,married
+256,512,513,broken up
+257,514,515,broken up
+258,516,517,still dating
+259,518,519,married
+260,520,521,broken up
+261,522,523,still dating
+262,524,525,broken up
+263,526,527,married
+264,528,529,broken up
+265,530,531,broken up
+266,532,533,broken up
+267,534,535,still dating
+268,536,537,married
+269,538,539,broken up
+270,540,541,broken up
+271,542,543,married
+272,544,545,still dating
+273,546,547,broken up
+274,548,549,still dating
+275,550,551,still dating
+276,552,553,broken up
+277,554,555,married
+278,556,557,still dating
+279,558,559,broken up
+280,560,561,married
+281,562,563,broken up
+282,564,565,married
+283,566,567,divorced
+284,568,569,married
+285,570,571,broken up
+286,572,573,divorced
+287,574,575,broken up
+288,576,577,broken up
+289,578,579,divorced
+290,580,581,broken up
+291,582,583,broken up
+292,584,585,broken up
+293,586,587,broken up
+294,588,589,broken up
+295,590,591,married
+296,592,593,married
+297,594,595,married
+298,596,597,broken up
+299,598,599,broken up
+300,600,601,broken up
+301,602,603,broken up
+302,604,605,broken up
+303,606,607,broken up
+304,608,609,still dating
+305,610,611,still dating
+306,612,613,broken up
+307,614,615,married
+308,616,617,divorced
+309,618,619,broken up
+310,620,621,broken up
+311,622,623,broken up
+312,624,625,divorced
+313,626,627,broken up
+314,628,629,divorced
+315,630,631,broken up
+316,632,633,broken up
+317,634,635,broken up
+318,636,637,broken up
+319,638,639,broken up
+320,640,641,broken up
+321,642,643,broken up
+322,644,645,divorced
+323,646,647,married
+324,648,649,divorced
+325,650,651,broken up
+326,652,653,divorced
+327,654,655,still dating
+328,656,657,married
+329,658,659,married
+330,660,661,broken up
+331,662,663,divorced
+332,664,665,married
+333,666,667,still dating
+334,668,669,broken up
+335,670,671,broken up
+336,672,673,married
+337,674,675,broken up
+338,676,677,broken up
+339,678,679,broken up
+340,680,681,broken up
+341,682,683,married
+342,684,685,still dating
+343,686,687,broken up
+344,688,689,still dating
+345,690,691,broken up
+346,692,693,divorced
+347,694,695,married
+348,696,697,married
+349,698,699,married
+350,700,701,broken up
+351,702,703,broken up
+352,704,705,still dating
+353,706,707,still dating
+354,708,709,broken up
+355,710,711,broken up
+356,712,713,married
+357,714,715,married
+358,716,717,married
+359,718,719,broken up
+360,720,721,divorced
+361,722,723,married
+362,724,725,still dating
+363,726,727,divorced
+364,728,729,married
+365,730,731,divorced
+366,732,733,married
+367,734,735,broken up
+368,736,737,broken up
+369,738,739,married
+370,740,741,still dating
+371,742,743,divorced
+372,744,745,divorced
+373,746,747,broken up
+374,748,749,broken up
+375,750,751,broken up
+376,752,753,still dating
+377,754,755,broken up
+378,756,757,married
+379,758,759,still dating
+380,760,761,broken up
+381,762,763,broken up
+382,764,765,married
+383,766,767,divorced
+384,768,769,broken up
+385,770,771,married
+386,772,773,broken up
+387,774,775,broken up
+388,776,777,broken up
+389,778,779,broken up
+390,780,781,still dating
+391,782,783,broken up
+392,784,785,broken up
+393,786,787,broken up
+394,788,789,broken up
+395,790,791,married
+396,792,793,broken up
+397,794,795,broken up
+398,796,797,broken up
+399,798,799,broken up
+400,800,801,married
+401,802,803,broken up
+402,804,805,broken up
+403,806,807,broken up
+404,808,809,broken up
+405,810,811,divorced
+406,812,813,married
+407,814,815,broken up
+408,816,817,married
+409,818,819,married
+410,820,821,still dating
+411,822,823,divorced
+412,824,825,broken up
+413,826,827,broken up
+414,828,829,broken up
+415,830,831,married
+416,832,833,married
+417,834,835,broken up
+418,836,837,married
+419,838,839,divorced
+420,840,841,broken up
+421,842,843,broken up
+422,844,845,broken up
+423,846,847,still dating
+424,848,849,still dating
+425,850,851,broken up
+426,852,853,married
+427,854,855,divorced
+428,856,857,divorced
+429,858,859,broken up
+430,860,861,divorced
+431,862,863,broken up
+432,864,865,broken up
+433,866,867,divorced
+434,868,869,divorced
+435,870,871,broken up
+436,872,873,broken up
+437,874,875,divorced
+438,876,877,married
+439,878,879,married
+440,880,881,divorced
+441,882,883,broken up
+442,884,885,still dating
+443,886,887,still dating
+444,888,889,married
+445,890,891,divorced
+446,892,893,married
+447,894,895,broken up
+448,896,897,married
+449,898,899,broken up
+450,900,901,married
+451,902,903,broken up
+452,904,905,divorced
+453,906,907,broken up
+454,908,909,broken up
+455,910,911,still dating
+456,912,913,divorced
+457,914,915,broken up
+458,916,917,broken up
+459,918,919,divorced
+460,920,921,broken up
+461,922,923,divorced
+462,924,925,broken up
+463,926,927,still dating
+464,928,929,married
+465,930,931,married
+466,932,933,divorced
+467,934,935,still dating
+468,936,937,broken up
+469,938,939,married
+470,940,941,married
+471,942,943,broken up
+472,944,945,broken up
+473,946,947,divorced
+474,948,949,broken up
+475,950,951,broken up
+476,952,953,broken up
+477,954,955,still dating
+478,956,957,divorced
+479,958,959,married
+480,960,961,broken up
+481,962,963,broken up
+482,964,965,broken up
+483,966,967,divorced
+484,968,969,broken up
+485,970,971,broken up
+486,972,973,divorced
+487,974,975,married
+488,976,977,broken up
+489,978,979,broken up
+490,980,981,divorced
+491,982,983,married
+492,984,985,broken up
+493,986,987,still dating
+494,988,989,broken up
+495,990,991,broken up
+496,992,993,still dating
+497,994,995,divorced
+498,996,997,still dating
+499,998,999,still dating
+500,1000,1001,broken up
+501,1002,1003,still dating
+502,1004,1005,broken up
+503,1006,1007,broken up
+504,1008,1009,married
+505,1010,1011,married
+506,1012,1013,broken up
+507,1014,1015,broken up
+508,1016,1017,married
+509,1018,1019,broken up
+510,1020,1021,married
+511,1022,1023,broken up
+512,1024,1025,married
+513,1026,1027,divorced
+514,1028,1029,divorced
+515,1030,1031,broken up
+516,1032,1033,broken up
+517,1034,1035,broken up
+518,1036,1037,broken up
+519,1038,1039,broken up
+520,1040,1041,broken up
+521,1042,1043,divorced
+522,1044,1045,broken up
+523,1046,1047,broken up
+524,1048,1049,broken up
+525,1050,1051,broken up
+526,1052,1053,divorced
+527,1054,1055,broken up
+528,1056,1057,married
+529,1058,1059,divorced
+530,1060,1061,married
+531,1062,1063,broken up
+532,1064,1065,married
+533,1066,1067,broken up
+534,1068,1069,broken up
+535,1070,1071,still dating
+536,1072,1073,broken up
+537,1074,1075,broken up
+538,1076,1077,divorced
+539,1078,1079,married
+540,1080,1081,broken up
+541,1082,1083,broken up
+542,1084,1085,broken up
+543,1086,1087,broken up
+544,1088,1089,married
+545,1090,1091,broken up
+546,1092,1093,broken up
+547,1094,1095,still dating
+548,1096,1097,still dating
+549,1098,1099,still dating
+550,1100,1101,broken up
+551,1102,1103,married
+552,1104,1105,married
+553,1106,1107,broken up
+554,1108,1109,broken up
+555,1110,1111,broken up
+556,1112,1113,broken up
+557,1114,1115,broken up
+558,1116,1117,still dating
+559,1118,1119,still dating
+560,1120,1121,married
+561,1122,1123,broken up
+562,1124,1125,broken up
+563,1126,1127,broken up
+564,1128,1129,broken up
+565,1130,1131,divorced
+566,1132,1133,broken up
+567,1134,1135,divorced
+568,1136,1137,still dating
+569,1138,1139,married
+570,1140,1141,broken up
+571,1142,1143,broken up
+572,1144,1145,broken up
+573,1146,1147,broken up
+574,1148,1149,married
+575,1150,1151,broken up
+576,1152,1153,broken up
+577,1154,1155,broken up
+578,1156,1157,broken up
+579,1158,1159,broken up
+580,1160,1161,broken up
+581,1162,1163,broken up
+582,1164,1165,divorced
+583,1166,1167,divorced
+584,1168,1169,broken up
+585,1170,1171,broken up
+586,1172,1173,broken up
+587,1174,1175,broken up
+588,1176,1177,married
+589,1178,1179,broken up
+590,1180,1181,broken up
+591,1182,1183,still dating
+592,1184,1185,broken up
+593,1186,1187,broken up
+594,1188,1189,broken up
+595,1190,1191,still dating
+596,1192,1193,married
+597,1194,1195,broken up
+598,1196,1197,broken up
+599,1198,1199,broken up
+600,1200,1201,still dating
+601,1202,1203,broken up
+602,1204,1205,married
+603,1206,1207,married
+604,1208,1209,broken up
+605,1210,1211,married
+606,1212,1213,married
+607,1214,1215,married
+608,1216,1217,married
+609,1218,1219,broken up
+610,1220,1221,broken up
+611,1222,1223,broken up
+612,1224,1225,broken up
+613,1226,1227,divorced
+614,1228,1229,broken up
+615,1230,1231,broken up
+616,1232,1233,married
+617,1234,1235,broken up
+618,1236,1237,divorced
+619,1238,1239,broken up
+620,1240,1241,divorced
+621,1242,1243,divorced
+622,1244,1245,married
+623,1246,1247,still dating
+624,1248,1249,married
+625,1250,1251,married
+626,1252,1253,married
+627,1254,1255,broken up
+628,1256,1257,still dating
+629,1258,1259,broken up
+630,1260,1261,broken up
+631,1262,1263,broken up
+632,1264,1265,broken up
+633,1266,1267,broken up
+634,1268,1269,married
+635,1270,1271,broken up
+636,1272,1273,married
+637,1274,1275,married
+638,1276,1277,married
+639,1278,1279,broken up
+640,1280,1281,divorced
+641,1282,1283,broken up
+642,1284,1285,divorced
+643,1286,1287,broken up
+644,1288,1289,broken up
+645,1290,1291,broken up
+646,1292,1293,broken up
+647,1294,1295,still dating
+648,1296,1297,broken up
+649,1298,1299,broken up
+650,1300,1301,broken up
+651,1302,1303,broken up
+652,1304,1305,broken up
+653,1306,1307,divorced
+654,1308,1309,broken up
+655,1310,1311,broken up
+656,1312,1313,broken up
+657,1314,1315,broken up
+658,1316,1317,broken up
+659,1318,1319,broken up
+660,1320,1321,still dating
+661,1322,1323,broken up
+662,1324,1325,broken up
+663,1326,1327,broken up
+664,1328,1329,broken up
+665,1330,1331,broken up
+666,1332,1333,divorced
+667,1334,1335,married
+668,1336,1337,divorced
+669,1338,1339,married
+670,1340,1341,married
+671,1342,1343,broken up
+672,1344,1345,married
+673,1346,1347,broken up
+674,1348,1349,broken up
+675,1350,1351,married
+676,1352,1353,divorced
+677,1354,1355,divorced
+678,1356,1357,divorced
+679,1358,1359,broken up
+680,1360,1361,broken up
+681,1362,1363,broken up
+682,1364,1365,broken up
+683,1366,1367,married
+684,1368,1369,married
+685,1370,1371,married
+686,1372,1373,still dating
+687,1374,1375,broken up
+688,1376,1377,broken up
+689,1378,1379,married
+690,1380,1381,broken up
+691,1382,1383,broken up
+692,1384,1385,broken up
+693,1386,1387,divorced
+694,1388,1389,broken up
+695,1390,1391,broken up
+696,1392,1393,broken up
+697,1394,1395,broken up
+698,1396,1397,married
+699,1398,1399,divorced
+700,1400,1401,married
+701,1402,1403,broken up
+702,1404,1405,married
+703,1406,1407,broken up
+704,1408,1409,married
+705,1410,1411,broken up
+706,1412,1413,broken up
+707,1414,1415,broken up
+708,1416,1417,broken up
+709,1418,1419,married
+710,1420,1421,broken up
+711,1422,1423,broken up
+712,1424,1425,broken up
+713,1426,1427,broken up
+714,1428,1429,broken up
+715,1430,1431,broken up
+716,1432,1433,still dating
+717,1434,1435,broken up
+718,1436,1437,still dating
+719,1438,1439,married
+720,1440,1441,divorced
+721,1442,1443,broken up
+722,1444,1445,married
+723,1446,1447,married
+724,1448,1449,broken up
+725,1450,1451,married
+726,1452,1453,broken up
+727,1454,1455,still dating
+728,1456,1457,married
+729,1458,1459,broken up
+730,1460,1461,married
+731,1462,1463,still dating
+732,1464,1465,broken up
+733,1466,1467,married
+734,1468,1469,broken up
+735,1470,1471,broken up
+736,1472,1473,broken up
+737,1474,1475,broken up
+738,1476,1477,broken up
+739,1478,1479,divorced
+740,1480,1481,married
+741,1482,1483,broken up
+742,1484,1485,broken up
+743,1486,1487,broken up
+744,1488,1489,broken up
+745,1490,1491,broken up
+746,1492,1493,married
+747,1494,1495,still dating
+748,1496,1497,broken up
+749,1498,1499,divorced
+750,1500,1501,broken up
+751,1502,1503,broken up
+752,1504,1505,broken up
+753,1506,1507,broken up
+754,1508,1509,broken up
+755,1510,1511,married
+756,1512,1513,married
+757,1514,1515,broken up
+758,1516,1517,broken up
+759,1518,1519,broken up
+760,1520,1521,broken up
+761,1522,1523,married
+762,1524,1525,broken up
+763,1526,1527,broken up
+764,1528,1529,broken up
+765,1530,1531,divorced
+766,1532,1533,divorced
+767,1534,1535,married
+768,1536,1537,broken up
+769,1538,1539,broken up
+770,1540,1541,divorced
+771,1542,1543,married
+772,1544,1545,broken up
+773,1546,1547,broken up
+774,1548,1549,still dating
+775,1550,1551,still dating
+776,1552,1553,broken up
+777,1554,1555,broken up
+778,1556,1557,broken up
+779,1558,1559,broken up
+780,1560,1561,broken up
+781,1562,1563,divorced
+782,1564,1565,broken up
+783,1566,1567,divorced
+784,1568,1569,divorced
+785,1570,1571,divorced
+786,1572,1573,divorced
+787,1574,1575,broken up
+788,1576,1577,broken up
+789,1578,1579,broken up
+790,1580,1581,broken up
+791,1582,1583,broken up
+792,1584,1585,divorced
+793,1586,1587,married
+794,1588,1589,broken up
+795,1590,1591,divorced
+796,1592,1593,broken up
+797,1594,1595,divorced
+798,1596,1597,divorced
+799,1598,1599,broken up
+800,1600,1601,broken up
+801,1602,1603,married
+802,1604,1605,broken up
+803,1606,1607,broken up
+804,1608,1609,divorced
+805,1610,1611,married
+806,1612,1613,still dating
+807,1614,1615,divorced
+808,1616,1617,broken up
+809,1618,1619,divorced
+810,1620,1621,divorced
+811,1622,1623,broken up
+812,1624,1625,broken up
+813,1626,1627,broken up
+814,1628,1629,still dating
+815,1630,1631,broken up
+816,1632,1633,broken up
+817,1634,1635,divorced
+818,1636,1637,broken up
+819,1638,1639,divorced
+820,1640,1641,married
+821,1642,1643,broken up
+822,1644,1645,broken up
+823,1646,1647,married
+824,1648,1649,broken up
+825,1650,1651,divorced
+826,1652,1653,divorced
+827,1654,1655,married
+828,1656,1657,divorced
+829,1658,1659,still dating
+830,1660,1661,broken up
+831,1662,1663,broken up
+832,1664,1665,broken up
+833,1666,1667,married
+834,1668,1669,broken up
+835,1670,1671,broken up
+836,1672,1673,broken up
+837,1674,1675,still dating
+838,1676,1677,divorced
+839,1678,1679,divorced
+840,1680,1681,married
+841,1682,1683,broken up
+842,1684,1685,broken up
+843,1686,1687,still dating
+844,1688,1689,broken up
+845,1690,1691,married
+846,1692,1693,married
+847,1694,1695,broken up
+848,1696,1697,broken up
+849,1698,1699,still dating
+850,1700,1701,broken up
+851,1702,1703,divorced
+852,1704,1705,broken up
+853,1706,1707,married
+854,1708,1709,broken up
+855,1710,1711,broken up
+856,1712,1713,broken up
+857,1714,1715,married
+858,1716,1717,broken up
+859,1718,1719,broken up
+860,1720,1721,broken up
+861,1722,1723,divorced
+862,1724,1725,broken up
+863,1726,1727,divorced
+864,1728,1729,broken up
+865,1730,1731,broken up
+866,1732,1733,married
+867,1734,1735,married
+868,1736,1737,still dating
+869,1738,1739,broken up
+870,1740,1741,broken up
+871,1742,1743,broken up
+872,1744,1745,broken up
+873,1746,1747,broken up
+874,1748,1749,married
+875,1750,1751,divorced
+876,1752,1753,married
+877,1754,1755,divorced
+878,1756,1757,broken up
+879,1758,1759,married
+880,1760,1761,broken up
+881,1762,1763,broken up
+882,1764,1765,broken up
+883,1766,1767,broken up
+884,1768,1769,broken up
+885,1770,1771,still dating
+886,1772,1773,still dating
+887,1774,1775,broken up
+888,1776,1777,divorced
+889,1778,1779,broken up
+890,1780,1781,divorced
+891,1782,1783,still dating
+892,1784,1785,broken up
+893,1786,1787,married
+894,1788,1789,married
+895,1790,1791,broken up
+896,1792,1793,broken up
+897,1794,1795,married
+898,1796,1797,married
+899,1798,1799,married
+900,1800,1801,broken up
+901,1802,1803,broken up
+902,1804,1805,divorced
+903,1806,1807,broken up
+904,1808,1809,broken up
+905,1810,1811,broken up
+906,1812,1813,broken up
+907,1814,1815,broken up
+908,1816,1817,broken up
+909,1818,1819,broken up
+910,1820,1821,married
+911,1822,1823,broken up
+912,1824,1825,broken up
+913,1826,1827,broken up
+914,1828,1829,still dating
+915,1830,1831,broken up
+916,1832,1833,broken up
+917,1834,1835,still dating
+918,1836,1837,married
+919,1838,1839,broken up
+920,1840,1841,broken up
+921,1842,1843,married
+922,1844,1845,married
+923,1846,1847,divorced
+924,1848,1849,married
+925,1850,1851,broken up
+926,1852,1853,broken up
+927,1854,1855,broken up
+928,1856,1857,divorced
+929,1858,1859,married
+930,1860,1861,married
+931,1862,1863,broken up
+932,1864,1865,broken up
+933,1866,1867,broken up
+934,1868,1869,married
+935,1870,1871,still dating
+936,1872,1873,broken up
+937,1874,1875,married
+938,1876,1877,broken up
+939,1878,1879,broken up
+940,1880,1881,broken up
+941,1882,1883,broken up
+942,1884,1885,still dating
+943,1886,1887,broken up
+944,1888,1889,still dating
+945,1890,1891,broken up
+946,1892,1893,broken up
+947,1894,1895,married
+948,1896,1897,broken up
+949,1898,1899,married
+950,1900,1901,broken up
+951,1902,1903,broken up
+952,1904,1905,broken up
+953,1906,1907,married
+954,1908,1909,broken up
+955,1910,1911,broken up
+956,1912,1913,broken up
+957,1914,1915,broken up
+958,1916,1917,broken up
+959,1918,1919,still dating
+960,1920,1921,divorced
+961,1922,1923,divorced
+962,1924,1925,broken up
+963,1926,1927,still dating
+964,1928,1929,broken up
+965,1930,1931,broken up
+966,1932,1933,divorced
+967,1934,1935,broken up
+968,1936,1937,married
+969,1938,1939,broken up
+970,1940,1941,broken up
+971,1942,1943,broken up
+972,1944,1945,broken up
+973,1946,1947,broken up
+974,1948,1949,broken up
+975,1950,1951,broken up
+976,1952,1953,divorced
+977,1954,1955,broken up
+978,1956,1957,married
+979,1958,1959,married
+980,1960,1961,broken up
+981,1962,1963,married
+982,1964,1965,married
+983,1966,1967,still dating
+984,1968,1969,married
+985,1970,1971,still dating
+986,1972,1973,broken up
+987,1974,1975,broken up
+988,1976,1977,still dating
+989,1978,1979,broken up
+990,1980,1981,broken up
+991,1982,1983,still dating
+992,1984,1985,broken up
+993,1986,1987,broken up
+994,1988,1989,married
+995,1990,1991,broken up
+996,1992,1993,still dating
+997,1994,1995,married
+998,1996,1997,still dating
+999,1998,1999,divorced
+1000,2000,2001,broken up
+1001,2002,2003,married
+1002,2004,2005,still dating
+1003,2006,2007,married
+1004,2008,2009,broken up
+1005,2010,2011,divorced
+1006,2012,2013,still dating
+1007,2014,2015,broken up
+1008,2016,2017,broken up
+1009,2018,2019,broken up
+1010,2020,2021,broken up
+1011,2022,2023,divorced
+1012,2024,2025,broken up
+1013,2026,2027,broken up
+1014,2028,2029,still dating
+1015,2030,2031,broken up
+1016,2032,2033,married
+1017,2034,2035,broken up
+1018,2036,2037,broken up
+1019,2038,2039,broken up
+1020,2040,2041,married
+1021,2042,2043,broken up
+1022,2044,2045,broken up
+1023,2046,2047,broken up
+1024,2048,2049,broken up
+1025,2050,2051,broken up
+1026,2052,2053,broken up
+1027,2054,2055,divorced
+1028,2056,2057,broken up
+1029,2058,2059,broken up
+1030,2060,2061,still dating
+1031,2062,2063,divorced
+1032,2064,2065,broken up
+1033,2066,2067,broken up
+1034,2068,2069,divorced
+1035,2070,2071,broken up
+1036,2072,2073,married
+1037,2074,2075,broken up
+1038,2076,2077,broken up
+1039,2078,2079,broken up
+1040,2080,2081,broken up
+1041,2082,2083,married
+1042,2084,2085,broken up
+1043,2086,2087,broken up
+1044,2088,2089,broken up
+1045,2090,2091,broken up
+1046,2092,2093,broken up
+1047,2094,2095,divorced
+1048,2096,2097,married
+1049,2098,2099,divorced
+1050,2100,2101,broken up
+1051,2102,2103,divorced
+1052,2104,2105,broken up
+1053,2106,2107,divorced
+1054,2108,2109,married
+1055,2110,2111,married
+1056,2112,2113,broken up
+1057,2114,2115,broken up
+1058,2116,2117,broken up
+1059,2118,2119,broken up
+1060,2120,2121,broken up
+1061,2122,2123,broken up
+1062,2124,2125,broken up
+1063,2126,2127,divorced
+1064,2128,2129,divorced
+1065,2130,2131,broken up
+1066,2132,2133,divorced
+1067,2134,2135,still dating
+1068,2136,2137,broken up
+1069,2138,2139,married
+1070,2140,2141,broken up
+1071,2142,2143,divorced
+1072,2144,2145,broken up
+1073,2146,2147,broken up
+1074,2148,2149,broken up
+1075,2150,2151,broken up
+1076,2152,2153,broken up
+1077,2154,2155,broken up
+1078,2156,2157,broken up
+1079,2158,2159,broken up
+1080,2160,2161,married
+1081,2162,2163,divorced
+1082,2164,2165,married
+1083,2166,2167,married
+1084,2168,2169,broken up
+1085,2170,2171,broken up
+1086,2172,2173,broken up
+1087,2174,2175,broken up
+1088,2176,2177,broken up
+1089,2178,2179,broken up
+1090,2180,2181,married
+1091,2182,2183,still dating
+1092,2184,2185,broken up
+1093,2186,2187,still dating
+1094,2188,2189,broken up
+1095,2190,2191,broken up
+1096,2192,2193,broken up
+1097,2194,2195,married
+1098,2196,2197,broken up
+1099,2198,2199,broken up
+1100,2200,2201,married
+1101,2202,2203,broken up
+1102,2204,2205,broken up
+1103,2206,2207,still dating
+1104,2208,2209,broken up
+1105,2210,2211,divorced
+1106,2212,2213,broken up
+1107,2214,2215,broken up
+1108,2216,2217,broken up
+1109,2218,2219,broken up
+1110,2220,2221,broken up
+1111,2222,2223,broken up
+1112,2224,2225,married
+1113,2226,2227,broken up
+1114,2228,2229,broken up
+1115,2230,2231,divorced
+1116,2232,2233,still dating
+1117,2234,2235,married
+1118,2236,2237,broken up
+1119,2238,2239,broken up
+1120,2240,2241,divorced
+1121,2242,2243,broken up
+1122,2244,2245,broken up
+1123,2246,2247,married
+1124,2248,2249,married
+1125,2250,2251,broken up
+1126,2252,2253,divorced
+1127,2254,2255,broken up
+1128,2256,2257,broken up
+1129,2258,2259,divorced
+1130,2260,2261,divorced
+1131,2262,2263,broken up
+1132,2264,2265,divorced
+1133,2266,2267,broken up
+1134,2268,2269,married
+1135,2270,2271,still dating
+1136,2272,2273,divorced
+1137,2274,2275,married
+1138,2276,2277,divorced
+1139,2278,2279,married
+1140,2280,2281,still dating
+1141,2282,2283,still dating
+1142,2284,2285,divorced
+1143,2286,2287,still dating
+1144,2288,2289,divorced
+1145,2290,2291,broken up
+1146,2292,2293,broken up
+1147,2294,2295,broken up
+1148,2296,2297,broken up
+1149,2298,2299,divorced
+1150,2300,2301,married
+1151,2302,2303,broken up
+1152,2304,2305,married
+1153,2306,2307,married
+1154,2308,2309,married
+1155,2310,2311,divorced
+1156,2312,2313,married
+1157,2314,2315,broken up
+1158,2316,2317,still dating
+1159,2318,2319,still dating
+1160,2320,2321,broken up
+1161,2322,2323,broken up
+1162,2324,2325,married
+1163,2326,2327,married
+1164,2328,2329,married
+1165,2330,2331,still dating
+1166,2332,2333,broken up
+1167,2334,2335,married
+1168,2336,2337,divorced
+1169,2338,2339,broken up
+1170,2340,2341,broken up
+1171,2342,2343,broken up
+1172,2344,2345,married
+1173,2346,2347,broken up
+1174,2348,2349,married
+1175,2350,2351,broken up
+1176,2352,2353,married
+1177,2354,2355,still dating
+1178,2356,2357,divorced
+1179,2358,2359,broken up
+1180,2360,2361,still dating
+1181,2362,2363,divorced
+1182,2364,2365,broken up
+1183,2366,2367,married
+1184,2368,2369,broken up
+1185,2370,2371,married
+1186,2372,2373,broken up
+1187,2374,2375,broken up
+1188,2376,2377,broken up
+1189,2378,2379,broken up
+1190,2380,2381,married
+1191,2382,2383,broken up
+1192,2384,2385,broken up
+1193,2386,2387,broken up
+1194,2388,2389,broken up
+1195,2390,2391,married
+1196,2392,2393,married
+1197,2394,2395,divorced
+1198,2396,2397,divorced
+1199,2398,2399,broken up
+1200,2400,2401,broken up
+1201,2402,2403,broken up
+1202,2404,2405,divorced
+1203,2406,2407,married
+1204,2408,2409,divorced
+1205,2410,2411,broken up
+1206,2412,2413,divorced
+1207,2414,2415,married
+1208,2416,2417,divorced
+1209,2418,2419,broken up
+1210,2420,2421,married
+1211,2422,2423,married
+1212,2424,2425,divorced
+1213,2426,2427,divorced
+1214,2428,2429,married
+1215,2430,2431,married
+1216,2432,2433,married
+1217,2434,2435,divorced
+1218,2436,2437,broken up
+1219,2438,2439,married
+1220,2440,2441,divorced
+1221,2442,2443,broken up
+1222,2444,2445,broken up
+1223,2446,2447,divorced
+1224,2448,2449,divorced
+1225,2450,2451,divorced
+1226,2452,2453,married
+1227,2454,2455,broken up
+1228,2456,2457,broken up
+1229,2458,2459,broken up
+1230,2460,2461,broken up
+1231,2462,2463,broken up
+1232,2464,2465,broken up
+1233,2466,2467,divorced
+1234,2468,2469,broken up
+1235,2470,2471,broken up
+1236,2472,2473,broken up
+1237,2474,2475,divorced
+1238,2476,2477,broken up
+1239,2478,2479,divorced
+1240,2480,2481,broken up
+1241,2482,2483,still dating
+1242,2484,2485,married
+1243,2486,2487,married
+1244,2488,2489,broken up
+1245,2490,2491,broken up
+1246,2492,2493,divorced
+1247,2494,2495,divorced
+1248,2496,2497,married
+1249,2498,2499,divorced
+1250,2500,2501,broken up
+1251,2502,2503,broken up
+1252,2504,2505,still dating
+1253,2506,2507,broken up
+1254,2508,2509,married
+1255,2510,2511,still dating
+1256,2512,2513,broken up
+1257,2514,2515,broken up
+1258,2516,2517,broken up
+1259,2518,2519,broken up
+1260,2520,2521,broken up
+1261,2522,2523,broken up
+1262,2524,2525,married
+1263,2526,2527,broken up
+1264,2528,2529,broken up
+1265,2530,2531,divorced
+1266,2532,2533,broken up
+1267,2534,2535,broken up
+1268,2536,2537,broken up
+1269,2538,2539,divorced
+1270,2540,2541,broken up
+1271,2542,2543,divorced
+1272,2544,2545,married
+1273,2546,2547,still dating
+1274,2548,2549,broken up
+1275,2550,2551,broken up
+1276,2552,2553,married
+1277,2554,2555,married
+1278,2556,2557,divorced
+1279,2558,2559,broken up
+1280,2560,2561,divorced
+1281,2562,2563,broken up
+1282,2564,2565,divorced
+1283,2566,2567,broken up
+1284,2568,2569,married
+1285,2570,2571,broken up
+1286,2572,2573,divorced
+1287,2574,2575,married
+1288,2576,2577,married
+1289,2578,2579,broken up
+1290,2580,2581,married
+1291,2582,2583,broken up
+1292,2584,2585,married
+1293,2586,2587,broken up
+1294,2588,2589,broken up
+1295,2590,2591,broken up
+1296,2592,2593,divorced
+1297,2594,2595,divorced
+1298,2596,2597,still dating
+1299,2598,2599,broken up
+1300,2600,2601,broken up
+1301,2602,2603,married
+1302,2604,2605,married
+1303,2606,2607,broken up
+1304,2608,2609,still dating
+1305,2610,2611,broken up
+1306,2612,2613,broken up
+1307,2614,2615,divorced
+1308,2616,2617,divorced
+1309,2618,2619,broken up
+1310,2620,2621,broken up
+1311,2622,2623,still dating
+1312,2624,2625,divorced
+1313,2626,2627,broken up
+1314,2628,2629,married
+1315,2630,2631,broken up
+1316,2632,2633,broken up
+1317,2634,2635,broken up
+1318,2636,2637,broken up
+1319,2638,2639,married
+1320,2640,2641,married
+1321,2642,2643,married
+1322,2644,2645,married
+1323,2646,2647,broken up
+1324,2648,2649,married
+1325,2650,2651,broken up
+1326,2652,2653,divorced
+1327,2654,2655,married
+1328,2656,2657,broken up
+1329,2658,2659,broken up
+1330,2660,2661,still dating
+1331,2662,2663,broken up
+1332,2664,2665,still dating
+1333,2666,2667,divorced
+1334,2668,2669,broken up
+1335,2670,2671,broken up
+1336,2672,2673,still dating
+1337,2674,2675,married
+1338,2676,2677,broken up
+1339,2678,2679,still dating
+1340,2680,2681,broken up
+1341,2682,2683,broken up
+1342,2684,2685,divorced
+1343,2686,2687,divorced
+1344,2688,2689,married
+1345,2690,2691,divorced
+1346,2692,2693,broken up
+1347,2694,2695,still dating
+1348,2696,2697,married
+1349,2698,2699,broken up
+1350,2700,2701,still dating
+1351,2702,2703,married
+1352,2704,2705,married
+1353,2706,2707,divorced
+1354,2708,2709,broken up
+1355,2710,2711,broken up
+1356,2712,2713,still dating
+1357,2714,2715,married
+1358,2716,2717,divorced
+1359,2718,2719,still dating
+1360,2720,2721,broken up
+1361,2722,2723,divorced
+1362,2724,2725,divorced
+1363,2726,2727,broken up
+1364,2728,2729,broken up
+1365,2730,2731,broken up
+1366,2732,2733,broken up
+1367,2734,2735,married
+1368,2736,2737,broken up
+1369,2738,2739,divorced
+1370,2740,2741,divorced
+1371,2742,2743,married
+1372,2744,2745,broken up
+1373,2746,2747,still dating
+1374,2748,2749,broken up
+1375,2750,2751,divorced
+1376,2752,2753,married
+1377,2754,2755,married
+1378,2756,2757,divorced
+1379,2758,2759,broken up
+1380,2760,2761,divorced
+1381,2762,2763,divorced
+1382,2764,2765,still dating
+1383,2766,2767,broken up
+1384,2768,2769,broken up
+1385,2770,2771,still dating
+1386,2772,2773,broken up
+1387,2774,2775,broken up
+1388,2776,2777,divorced
+1389,2778,2779,divorced
+1390,2780,2781,broken up
+1391,2782,2783,married
+1392,2784,2785,still dating
+1393,2786,2787,broken up
+1394,2788,2789,broken up
+1395,2790,2791,broken up
+1396,2792,2793,broken up
+1397,2794,2795,divorced
+1398,2796,2797,married
+1399,2798,2799,divorced
+1400,2800,2801,broken up
+1401,2802,2803,broken up
+1402,2804,2805,married
+1403,2806,2807,divorced
+1404,2808,2809,still dating
+1405,2810,2811,married
+1406,2812,2813,divorced
+1407,2814,2815,broken up
+1408,2816,2817,broken up
+1409,2818,2819,broken up
+1410,2820,2821,broken up
+1411,2822,2823,married
+1412,2824,2825,still dating
+1413,2826,2827,broken up
+1414,2828,2829,broken up
+1415,2830,2831,broken up
+1416,2832,2833,divorced
+1417,2834,2835,divorced
+1418,2836,2837,broken up
+1419,2838,2839,divorced
+1420,2840,2841,broken up
+1421,2842,2843,divorced
+1422,2844,2845,broken up
+1423,2846,2847,still dating
+1424,2848,2849,still dating
+1425,2850,2851,divorced
+1426,2852,2853,divorced
+1427,2854,2855,divorced
+1428,2856,2857,divorced
+1429,2858,2859,broken up
+1430,2860,2861,married
+1431,2862,2863,broken up
+1432,2864,2865,married
+1433,2866,2867,still dating
+1434,2868,2869,broken up
+1435,2870,2871,still dating
+1436,2872,2873,broken up
+1437,2874,2875,divorced
+1438,2876,2877,broken up
+1439,2878,2879,divorced
+1440,2880,2881,broken up
+1441,2882,2883,broken up
+1442,2884,2885,married
+1443,2886,2887,broken up
+1444,2888,2889,married
+1445,2890,2891,divorced
+1446,2892,2893,married
+1447,2894,2895,married
+1448,2896,2897,married
+1449,2898,2899,married
+1450,2900,2901,still dating
+1451,2902,2903,married
+1452,2904,2905,broken up
+1453,2906,2907,broken up
+1454,2908,2909,still dating
+1455,2910,2911,divorced
+1456,2912,2913,broken up
+1457,2914,2915,broken up
+1458,2916,2917,married
+1459,2918,2919,still dating
+1460,2920,2921,broken up
+1461,2922,2923,married
+1462,2924,2925,broken up
+1463,2926,2927,still dating
+1464,2928,2929,married
+1465,2930,2931,married
+1466,2932,2933,still dating
+1467,2934,2935,broken up
+1468,2936,2937,married
+1469,2938,2939,married
+1470,2940,2941,broken up
+1471,2942,2943,married
+1472,2944,2945,broken up
+1473,2946,2947,divorced
+1474,2948,2949,divorced
+1475,2950,2951,married
+1476,2952,2953,broken up
+1477,2954,2955,divorced
+1478,2956,2957,still dating
+1479,2958,2959,broken up
+1480,2960,2961,broken up
+1481,2962,2963,divorced
+1482,2964,2965,broken up
+1483,2966,2967,broken up
+1484,2968,2969,married
+1485,2970,2971,divorced
+1486,2972,2973,married
+1487,2974,2975,broken up
+1488,2976,2977,broken up
+1489,2978,2979,married
+1490,2980,2981,married
+1491,2982,2983,married
+1492,2984,2985,divorced
+1493,2986,2987,divorced
+1494,2988,2989,broken up
+1495,2990,2991,broken up
+1496,2992,2993,divorced
+1497,2994,2995,married
+1498,2996,2997,still dating
+1499,2998,2999,broken up
+1500,3000,3001,broken up
+1501,3002,3003,divorced
+1502,3004,3005,married
+1503,3006,3007,still dating
+1504,3008,3009,broken up
+1505,3010,3011,divorced
+1506,3012,3013,broken up
+1507,3014,3015,still dating
+1508,3016,3017,married
+1509,3018,3019,broken up
+1510,3020,3021,broken up
+1511,3022,3023,broken up
+1512,3024,3025,broken up
+1513,3026,3027,broken up
+1514,3028,3029,married
+1515,3030,3031,broken up
+1516,3032,3033,broken up
+1517,3034,3035,still dating
+1518,3036,3037,broken up
+1519,3038,3039,broken up
+1520,3040,3041,broken up
+1521,3042,3043,divorced
+1522,3044,3045,divorced
+1523,3046,3047,married
+1524,3048,3049,still dating
+1525,3050,3051,broken up
+1526,3052,3053,broken up
+1527,3054,3055,broken up
+1528,3056,3057,married
+1529,3058,3059,divorced
+1530,3060,3061,still dating
+1531,3062,3063,broken up
+1532,3064,3065,divorced
+1533,3066,3067,broken up
+1534,3068,3069,broken up
+1535,3070,3071,divorced
+1536,3072,3073,married
+1537,3074,3075,broken up
+1538,3076,3077,broken up
+1539,3078,3079,still dating
+1540,3080,3081,divorced
+1541,3082,3083,married
+1542,3084,3085,broken up
+1543,3086,3087,married
+1544,3088,3089,divorced
+1545,3090,3091,married
+1546,3092,3093,divorced
+1547,3094,3095,broken up
+1548,3096,3097,married
+1549,3098,3099,broken up
+1550,3100,3101,married
+1551,3102,3103,broken up
+1552,3104,3105,broken up
+1553,3106,3107,still dating
+1554,3108,3109,divorced
+1555,3110,3111,divorced
+1556,3112,3113,broken up
+1557,3114,3115,married
+1558,3116,3117,divorced
+1559,3118,3119,married
+1560,3120,3121,divorced
+1561,3122,3123,broken up
+1562,3124,3125,broken up
+1563,3126,3127,married
+1564,3128,3129,married
+1565,3130,3131,still dating
+1566,3132,3133,divorced
+1567,3134,3135,broken up
+1568,3136,3137,broken up
+1569,3138,3139,married
+1570,3140,3141,married
+1571,3142,3143,broken up
+1572,3144,3145,still dating
+1573,3146,3147,married
+1574,3148,3149,married
+1575,3150,3151,broken up
+1576,3152,3153,broken up
+1577,3154,3155,divorced
+1578,3156,3157,married
+1579,3158,3159,married
+1580,3160,3161,married
+1581,3162,3163,broken up
+1582,3164,3165,broken up
+1583,3166,3167,divorced
+1584,3168,3169,divorced
+1585,3170,3171,divorced
+1586,3172,3173,married
+1587,3174,3175,broken up
+1588,3176,3177,divorced
+1589,3178,3179,divorced
+1590,3180,3181,broken up
+1591,3182,3183,broken up
+1592,3184,3185,married
+1593,3186,3187,married
+1594,3188,3189,broken up
+1595,3190,3191,married
+1596,3192,3193,divorced
+1597,3194,3195,broken up
+1598,3196,3197,still dating
+1599,3198,3199,married
+1600,3200,3201,broken up
+1601,3202,3203,broken up
+1602,3204,3205,divorced
+1603,3206,3207,broken up
+1604,3208,3209,broken up
+1605,3210,3211,broken up
+1606,3212,3213,broken up
+1607,3214,3215,broken up
+1608,3216,3217,broken up
+1609,3218,3219,broken up
+1610,3220,3221,still dating
+1611,3222,3223,broken up
+1612,3224,3225,broken up
+1613,3226,3227,broken up
+1614,3228,3229,married
+1615,3230,3231,married
+1616,3232,3233,married
+1617,3234,3235,broken up
+1618,3236,3237,married
+1619,3238,3239,broken up
+1620,3240,3241,married
+1621,3242,3243,broken up
+1622,3244,3245,married
+1623,3246,3247,divorced
+1624,3248,3249,married
+1625,3250,3251,married
+1626,3252,3253,married
+1627,3254,3255,divorced
+1628,3256,3257,divorced
+1629,3258,3259,broken up
+1630,3260,3261,broken up
+1631,3262,3263,broken up
+1632,3264,3265,broken up
+1633,3266,3267,broken up
+1634,3268,3269,married
+1635,3270,3271,still dating
+1636,3272,3273,broken up
+1637,3274,3275,married
+1638,3276,3277,broken up
+1639,3278,3279,married
+1640,3280,3281,broken up
+1641,3282,3283,divorced
+1642,3284,3285,married
+1643,3286,3287,still dating
+1644,3288,3289,divorced
+1645,3290,3291,married
+1646,3292,3293,still dating
+1647,3294,3295,broken up
+1648,3296,3297,married
+1649,3298,3299,broken up
+1650,3300,3301,married
+1651,3302,3303,divorced
+1652,3304,3305,broken up
+1653,3306,3307,broken up
+1654,3308,3309,married
+1655,3310,3311,broken up
+1656,3312,3313,still dating
+1657,3314,3315,broken up
+1658,3316,3317,married
+1659,3318,3319,broken up
+1660,3320,3321,broken up
+1661,3322,3323,married
+1662,3324,3325,broken up
+1663,3326,3327,divorced
+1664,3328,3329,still dating
+1665,3330,3331,still dating
+1666,3332,3333,divorced
+1667,3334,3335,broken up
+1668,3336,3337,married
+1669,3338,3339,divorced
+1670,3340,3341,broken up
+1671,3342,3343,married
+1672,3344,3345,still dating
+1673,3346,3347,broken up
+1674,3348,3349,broken up
+1675,3350,3351,divorced
+1676,3352,3353,broken up
+1677,3354,3355,divorced
+1678,3356,3357,broken up
+1679,3358,3359,married
+1680,3360,3361,broken up
+1681,3362,3363,broken up
+1682,3364,3365,broken up
+1683,3366,3367,married
+1684,3368,3369,married
+1685,3370,3371,married
+1686,3372,3373,broken up
+1687,3374,3375,married
+1688,3376,3377,married
+1689,3378,3379,broken up
+1690,3380,3381,divorced
+1691,3382,3383,broken up
+1692,3384,3385,broken up
+1693,3386,3387,broken up
+1694,3388,3389,broken up
+1695,3390,3391,broken up
+1696,3392,3393,broken up
+1697,3394,3395,divorced
+1698,3396,3397,still dating
+1699,3398,3399,married
+1700,3400,3401,broken up
+1701,3402,3403,broken up
+1702,3404,3405,broken up
+1703,3406,3407,married
+1704,3408,3409,married
+1705,3410,3411,still dating
+1706,3412,3413,broken up
+1707,3414,3415,married
+1708,3416,3417,broken up
+1709,3418,3419,broken up
+1710,3420,3421,broken up
+1711,3422,3423,still dating
+1712,3424,3425,broken up
+1713,3426,3427,broken up
+1714,3428,3429,divorced
+1715,3430,3431,broken up
+1716,3432,3433,broken up
+1717,3434,3435,married
+1718,3436,3437,broken up
+1719,3438,3439,married
+1720,3440,3441,broken up
+1721,3442,3443,still dating
+1722,3444,3445,broken up
+1723,3446,3447,broken up
+1724,3448,3449,broken up
+1725,3450,3451,married
+1726,3452,3453,married
+1727,3454,3455,broken up
+1728,3456,3457,divorced
+1729,3458,3459,broken up
+1730,3460,3461,broken up
+1731,3462,3463,married
+1732,3464,3465,broken up
+1733,3466,3467,divorced
+1734,3468,3469,broken up
+1735,3470,3471,broken up
+1736,3472,3473,broken up
+1737,3474,3475,broken up
+1738,3476,3477,still dating
+1739,3478,3479,still dating
+1740,3480,3481,divorced
+1741,3482,3483,married
+1742,3484,3485,broken up
+1743,3486,3487,broken up
+1744,3488,3489,broken up
+1745,3490,3491,broken up
+1746,3492,3493,married
+1747,3494,3495,broken up
+1748,3496,3497,married
+1749,3498,3499,broken up
+1750,3500,3501,married
+1751,3502,3503,divorced
+1752,3504,3505,broken up
+1753,3506,3507,broken up
+1754,3508,3509,broken up
+1755,3510,3511,broken up
+1756,3512,3513,married
+1757,3514,3515,married
+1758,3516,3517,broken up
+1759,3518,3519,broken up
+1760,3520,3521,still dating
+1761,3522,3523,divorced
+1762,3524,3525,married
+1763,3526,3527,broken up
+1764,3528,3529,broken up
+1765,3530,3531,divorced
+1766,3532,3533,broken up
+1767,3534,3535,divorced
+1768,3536,3537,divorced
+1769,3538,3539,still dating
+1770,3540,3541,broken up
+1771,3542,3543,broken up
+1772,3544,3545,broken up
+1773,3546,3547,married
+1774,3548,3549,broken up
+1775,3550,3551,broken up
+1776,3552,3553,married
+1777,3554,3555,broken up
+1778,3556,3557,broken up
+1779,3558,3559,divorced
+1780,3560,3561,broken up
+1781,3562,3563,married
+1782,3564,3565,broken up
+1783,3566,3567,broken up
+1784,3568,3569,divorced
+1785,3570,3571,married
+1786,3572,3573,married
+1787,3574,3575,broken up
+1788,3576,3577,broken up
+1789,3578,3579,divorced
+1790,3580,3581,broken up
+1791,3582,3583,broken up
+1792,3584,3585,still dating
+1793,3586,3587,broken up
+1794,3588,3589,broken up
+1795,3590,3591,broken up
+1796,3592,3593,still dating
+1797,3594,3595,broken up
+1798,3596,3597,married
+1799,3598,3599,broken up
+1800,3600,3601,broken up
+1801,3602,3603,broken up
+1802,3604,3605,married
+1803,3606,3607,broken up
+1804,3608,3609,divorced
+1805,3610,3611,broken up
+1806,3612,3613,divorced
+1807,3614,3615,broken up
+1808,3616,3617,married
+1809,3618,3619,divorced
+1810,3620,3621,broken up
+1811,3622,3623,broken up
+1812,3624,3625,divorced
+1813,3626,3627,broken up
+1814,3628,3629,married
+1815,3630,3631,divorced
+1816,3632,3633,still dating
+1817,3634,3635,broken up
+1818,3636,3637,broken up
+1819,3638,3639,broken up
+1820,3640,3641,broken up
+1821,3642,3643,married
+1822,3644,3645,still dating
+1823,3646,3647,married
+1824,3648,3649,broken up
+1825,3650,3651,broken up
+1826,3652,3653,divorced
+1827,3654,3655,divorced
+1828,3656,3657,married
+1829,3658,3659,divorced
+1830,3660,3661,broken up
+1831,3662,3663,broken up
+1832,3664,3665,broken up
+1833,3666,3667,broken up
+1834,3668,3669,divorced
+1835,3670,3671,divorced
+1836,3672,3673,divorced
+1837,3674,3675,broken up
+1838,3676,3677,divorced
+1839,3678,3679,married
+1840,3680,3681,still dating
+1841,3682,3683,married
+1842,3684,3685,broken up
+1843,3686,3687,broken up
+1844,3688,3689,still dating
+1845,3690,3691,broken up
+1846,3692,3693,married
+1847,3694,3695,broken up
+1848,3696,3697,divorced
+1849,3698,3699,broken up
+1850,3700,3701,broken up
+1851,3702,3703,married
+1852,3704,3705,divorced
+1853,3706,3707,broken up
+1854,3708,3709,married
+1855,3710,3711,broken up
+1856,3712,3713,married
+1857,3714,3715,broken up
+1858,3716,3717,broken up
+1859,3718,3719,divorced
+1860,3720,3721,broken up
+1861,3722,3723,married
+1862,3724,3725,broken up
+1863,3726,3727,divorced
+1864,3728,3729,divorced
+1865,3730,3731,broken up
+1866,3732,3733,divorced
+1867,3734,3735,still dating
+1868,3736,3737,married
+1869,3738,3739,broken up
+1870,3740,3741,broken up
+1871,3742,3743,still dating
+1872,3744,3745,divorced
+1873,3746,3747,broken up
+1874,3748,3749,married
+1875,3750,3751,still dating
+1876,3752,3753,still dating
+1877,3754,3755,divorced
+1878,3756,3757,broken up
+1879,3758,3759,broken up
+1880,3760,3761,divorced
+1881,3762,3763,married
+1882,3764,3765,broken up
+1883,3766,3767,broken up
+1884,3768,3769,broken up
+1885,3770,3771,married
+1886,3772,3773,broken up
+1887,3774,3775,still dating
+1888,3776,3777,married
+1889,3778,3779,divorced
+1890,3780,3781,divorced
+1891,3782,3783,divorced
+1892,3784,3785,broken up
+1893,3786,3787,married
+1894,3788,3789,broken up
+1895,3790,3791,broken up
+1896,3792,3793,divorced
+1897,3794,3795,married
+1898,3796,3797,married
+1899,3798,3799,broken up
+1900,3800,3801,broken up
+1901,3802,3803,broken up
+1902,3804,3805,divorced
+1903,3806,3807,divorced
+1904,3808,3809,broken up
+1905,3810,3811,broken up
+1906,3812,3813,broken up
+1907,3814,3815,married
+1908,3816,3817,still dating
+1909,3818,3819,broken up
+1910,3820,3821,still dating
+1911,3822,3823,broken up
+1912,3824,3825,broken up
+1913,3826,3827,broken up
+1914,3828,3829,married
+1915,3830,3831,broken up
+1916,3832,3833,broken up
+1917,3834,3835,divorced
+1918,3836,3837,broken up
+1919,3838,3839,broken up
+1920,3840,3841,broken up
+1921,3842,3843,broken up
+1922,3844,3845,divorced
+1923,3846,3847,divorced
+1924,3848,3849,married
+1925,3850,3851,married
+1926,3852,3853,still dating
+1927,3854,3855,broken up
+1928,3856,3857,broken up
+1929,3858,3859,married
+1930,3860,3861,broken up
+1931,3862,3863,divorced
+1932,3864,3865,broken up
+1933,3866,3867,divorced
+1934,3868,3869,married
+1935,3870,3871,divorced
+1936,3872,3873,broken up
+1937,3874,3875,broken up
+1938,3876,3877,married
+1939,3878,3879,broken up
+1940,3880,3881,broken up
+1941,3882,3883,divorced
+1942,3884,3885,broken up
+1943,3886,3887,broken up
+1944,3888,3889,divorced
+1945,3890,3891,divorced
+1946,3892,3893,broken up
+1947,3894,3895,divorced
+1948,3896,3897,broken up
+1949,3898,3899,married
+1950,3900,3901,broken up
+1951,3902,3903,still dating
+1952,3904,3905,divorced
+1953,3906,3907,broken up
+1954,3908,3909,divorced
+1955,3910,3911,married
+1956,3912,3913,broken up
+1957,3914,3915,broken up
+1958,3916,3917,broken up
+1959,3918,3919,still dating
+1960,3920,3921,married
+1961,3922,3923,still dating
+1962,3924,3925,broken up
+1963,3926,3927,divorced
+1964,3928,3929,broken up
+1965,3930,3931,broken up
+1966,3932,3933,broken up
+1967,3934,3935,married
+1968,3936,3937,broken up
+1969,3938,3939,divorced
+1970,3940,3941,married
+1971,3942,3943,married
+1972,3944,3945,broken up
+1973,3946,3947,broken up
+1974,3948,3949,broken up
+1975,3950,3951,married
+1976,3952,3953,broken up
+1977,3954,3955,broken up
+1978,3956,3957,broken up
+1979,3958,3959,broken up
+1980,3960,3961,married
+1981,3962,3963,divorced
+1982,3964,3965,broken up
+1983,3966,3967,married
+1984,3968,3969,still dating
+1985,3970,3971,divorced
+1986,3972,3973,broken up
+1987,3974,3975,broken up
+1988,3976,3977,married
+1989,3978,3979,broken up
+1990,3980,3981,still dating
+1991,3982,3983,divorced
+1992,3984,3985,broken up
+1993,3986,3987,broken up
+1994,3988,3989,broken up
+1995,3990,3991,broken up
+1996,3992,3993,divorced
+1997,3994,3995,still dating
+1998,3996,3997,still dating
+1999,3998,3999,broken up
+2000,4000,4001,married
+2001,4002,4003,still dating
+2002,4004,4005,married
+2003,4006,4007,divorced
+2004,4008,4009,married
+2005,4010,4011,divorced
+2006,4012,4013,broken up
+2007,4014,4015,broken up
+2008,4016,4017,broken up
+2009,4018,4019,broken up
+2010,4020,4021,broken up
+2011,4022,4023,married
+2012,4024,4025,broken up
+2013,4026,4027,married
+2014,4028,4029,broken up
+2015,4030,4031,divorced
+2016,4032,4033,married
+2017,4034,4035,married
+2018,4036,4037,broken up
+2019,4038,4039,broken up
+2020,4040,4041,broken up
+2021,4042,4043,married
+2022,4044,4045,divorced
+2023,4046,4047,divorced
+2024,4048,4049,broken up
+2025,4050,4051,divorced
+2026,4052,4053,broken up
+2027,4054,4055,divorced
+2028,4056,4057,married
+2029,4058,4059,married
+2030,4060,4061,broken up
+2031,4062,4063,broken up
+2032,4064,4065,still dating
+2033,4066,4067,broken up
+2034,4068,4069,divorced
+2035,4070,4071,married
+2036,4072,4073,broken up
+2037,4074,4075,broken up
+2038,4076,4077,still dating
+2039,4078,4079,broken up
+2040,4080,4081,married
+2041,4082,4083,broken up
+2042,4084,4085,still dating
+2043,4086,4087,broken up
+2044,4088,4089,broken up
+2045,4090,4091,still dating
+2046,4092,4093,divorced
+2047,4094,4095,married
+2048,4096,4097,broken up
+2049,4098,4099,broken up
+2050,4100,4101,divorced
+2051,4102,4103,broken up
+2052,4104,4105,married
+2053,4106,4107,married
+2054,4108,4109,divorced
+2055,4110,4111,broken up
+2056,4112,4113,broken up
+2057,4114,4115,broken up
+2058,4116,4117,broken up
+2059,4118,4119,still dating
+2060,4120,4121,married
+2061,4122,4123,married
+2062,4124,4125,still dating
+2063,4126,4127,broken up
+2064,4128,4129,broken up
+2065,4130,4131,married
+2066,4132,4133,divorced
+2067,4134,4135,still dating
+2068,4136,4137,broken up
+2069,4138,4139,broken up
+2070,4140,4141,broken up
+2071,4142,4143,broken up
+2072,4144,4145,broken up
+2073,4146,4147,broken up
+2074,4148,4149,broken up
+2075,4150,4151,broken up
+2076,4152,4153,broken up
+2077,4154,4155,broken up
+2078,4156,4157,still dating
+2079,4158,4159,married
+2080,4160,4161,broken up
+2081,4162,4163,still dating
+2082,4164,4165,broken up
+2083,4166,4167,broken up
+2084,4168,4169,divorced
+2085,4170,4171,married
+2086,4172,4173,divorced
+2087,4174,4175,divorced
+2088,4176,4177,married
+2089,4178,4179,broken up
+2090,4180,4181,broken up
+2091,4182,4183,still dating
+2092,4184,4185,still dating
+2093,4186,4187,broken up
+2094,4188,4189,broken up
+2095,4190,4191,still dating
+2096,4192,4193,broken up
+2097,4194,4195,broken up
+2098,4196,4197,broken up
+2099,4198,4199,broken up
+2100,4200,4201,married
+2101,4202,4203,broken up
+2102,4204,4205,divorced
+2103,4206,4207,broken up
+2104,4208,4209,still dating
+2105,4210,4211,broken up
+2106,4212,4213,married
+2107,4214,4215,married
+2108,4216,4217,broken up
+2109,4218,4219,broken up
+2110,4220,4221,divorced
+2111,4222,4223,broken up
+2112,4224,4225,married
+2113,4226,4227,married
+2114,4228,4229,broken up
+2115,4230,4231,still dating
+2116,4232,4233,broken up
+2117,4234,4235,married
+2118,4236,4237,broken up
+2119,4238,4239,broken up
+2120,4240,4241,divorced
+2121,4242,4243,broken up
+2122,4244,4245,broken up
+2123,4246,4247,broken up
+2124,4248,4249,broken up
+2125,4250,4251,broken up
+2126,4252,4253,broken up
+2127,4254,4255,still dating
+2128,4256,4257,broken up
+2129,4258,4259,married
+2130,4260,4261,broken up
+2131,4262,4263,divorced
+2132,4264,4265,divorced
+2133,4266,4267,broken up
+2134,4268,4269,broken up
+2135,4270,4271,broken up
+2136,4272,4273,broken up
+2137,4274,4275,still dating
+2138,4276,4277,married
+2139,4278,4279,still dating
+2140,4280,4281,divorced
+2141,4282,4283,broken up
+2142,4284,4285,divorced
+2143,4286,4287,broken up
+2144,4288,4289,broken up
+2145,4290,4291,still dating
+2146,4292,4293,married
+2147,4294,4295,married
+2148,4296,4297,broken up
+2149,4298,4299,still dating
+2150,4300,4301,broken up
+2151,4302,4303,broken up
+2152,4304,4305,broken up
+2153,4306,4307,divorced
+2154,4308,4309,divorced
+2155,4310,4311,divorced
+2156,4312,4313,broken up
+2157,4314,4315,divorced
+2158,4316,4317,broken up
+2159,4318,4319,broken up
+2160,4320,4321,broken up
+2161,4322,4323,broken up
+2162,4324,4325,married
+2163,4326,4327,divorced
+2164,4328,4329,married
+2165,4330,4331,broken up
+2166,4332,4333,broken up
+2167,4334,4335,married
+2168,4336,4337,divorced
+2169,4338,4339,broken up
+2170,4340,4341,divorced
+2171,4342,4343,divorced
+2172,4344,4345,broken up
+2173,4346,4347,married
+2174,4348,4349,divorced
+2175,4350,4351,broken up
+2176,4352,4353,married
+2177,4354,4355,still dating
+2178,4356,4357,broken up
+2179,4358,4359,broken up
+2180,4360,4361,broken up
+2181,4362,4363,broken up
+2182,4364,4365,broken up
+2183,4366,4367,broken up
+2184,4368,4369,broken up
+2185,4370,4371,broken up
+2186,4372,4373,married
+2187,4374,4375,married
+2188,4376,4377,broken up
+2189,4378,4379,broken up
+2190,4380,4381,broken up
+2191,4382,4383,broken up
+2192,4384,4385,divorced
+2193,4386,4387,broken up
+2194,4388,4389,married
+2195,4390,4391,divorced
+2196,4392,4393,broken up
+2197,4394,4395,divorced
+2198,4396,4397,broken up
+2199,4398,4399,broken up
+2200,4400,4401,broken up
+2201,4402,4403,broken up
+2202,4404,4405,married
+2203,4406,4407,broken up
+2204,4408,4409,broken up
+2205,4410,4411,divorced
+2206,4412,4413,broken up
+2207,4414,4415,still dating
+2208,4416,4417,married
+2209,4418,4419,still dating
+2210,4420,4421,broken up
+2211,4422,4423,broken up
+2212,4424,4425,married
+2213,4426,4427,married
+2214,4428,4429,broken up
+2215,4430,4431,still dating
+2216,4432,4433,broken up
+2217,4434,4435,broken up
+2218,4436,4437,still dating
+2219,4438,4439,married
+2220,4440,4441,broken up
+2221,4442,4443,married
+2222,4444,4445,married
+2223,4446,4447,still dating
+2224,4448,4449,broken up
+2225,4450,4451,broken up
+2226,4452,4453,broken up
+2227,4454,4455,broken up
+2228,4456,4457,broken up
+2229,4458,4459,divorced
+2230,4460,4461,still dating
+2231,4462,4463,divorced
+2232,4464,4465,broken up
+2233,4466,4467,broken up
+2234,4468,4469,married
+2235,4470,4471,broken up
+2236,4472,4473,married
+2237,4474,4475,married
+2238,4476,4477,married
+2239,4478,4479,married
+2240,4480,4481,married
+2241,4482,4483,broken up
+2242,4484,4485,broken up
+2243,4486,4487,broken up
+2244,4488,4489,broken up
+2245,4490,4491,broken up
+2246,4492,4493,divorced
+2247,4494,4495,broken up
+2248,4496,4497,broken up
+2249,4498,4499,married
+2250,4500,4501,broken up
+2251,4502,4503,broken up
+2252,4504,4505,still dating
+2253,4506,4507,broken up
+2254,4508,4509,still dating
+2255,4510,4511,divorced
+2256,4512,4513,divorced
+2257,4514,4515,broken up
+2258,4516,4517,broken up
+2259,4518,4519,married
+2260,4520,4521,divorced
+2261,4522,4523,married
+2262,4524,4525,divorced
+2263,4526,4527,divorced
+2264,4528,4529,still dating
+2265,4530,4531,broken up
+2266,4532,4533,divorced
+2267,4534,4535,broken up
+2268,4536,4537,married
+2269,4538,4539,divorced
+2270,4540,4541,divorced
+2271,4542,4543,broken up
+2272,4544,4545,broken up
+2273,4546,4547,broken up
+2274,4548,4549,broken up
+2275,4550,4551,still dating
+2276,4552,4553,broken up
+2277,4554,4555,broken up
+2278,4556,4557,broken up
+2279,4558,4559,still dating
+2280,4560,4561,still dating
+2281,4562,4563,broken up
+2282,4564,4565,still dating
+2283,4566,4567,married
+2284,4568,4569,married
+2285,4570,4571,still dating
+2286,4572,4573,married
+2287,4574,4575,broken up
+2288,4576,4577,still dating
+2289,4578,4579,broken up
+2290,4580,4581,divorced
+2291,4582,4583,broken up
+2292,4584,4585,broken up
+2293,4586,4587,broken up
+2294,4588,4589,broken up
+2295,4590,4591,married
+2296,4592,4593,broken up
+2297,4594,4595,married
+2298,4596,4597,broken up
+2299,4598,4599,broken up
+2300,4600,4601,broken up
+2301,4602,4603,married
+2302,4604,4605,still dating
+2303,4606,4607,married
+2304,4608,4609,married
+2305,4610,4611,still dating
+2306,4612,4613,broken up
+2307,4614,4615,married
+2308,4616,4617,married
+2309,4618,4619,broken up
+2310,4620,4621,divorced
+2311,4622,4623,still dating
+2312,4624,4625,broken up
+2313,4626,4627,broken up
+2314,4628,4629,broken up
+2315,4630,4631,divorced
+2316,4632,4633,married
+2317,4634,4635,divorced
+2318,4636,4637,divorced
+2319,4638,4639,still dating
+2320,4640,4641,broken up
+2321,4642,4643,broken up
+2322,4644,4645,broken up
+2323,4646,4647,divorced
+2324,4648,4649,broken up
+2325,4650,4651,broken up
+2326,4652,4653,divorced
+2327,4654,4655,divorced
+2328,4656,4657,broken up
+2329,4658,4659,broken up
+2330,4660,4661,divorced
+2331,4662,4663,broken up
+2332,4664,4665,broken up
+2333,4666,4667,still dating
+2334,4668,4669,still dating
+2335,4670,4671,still dating
+2336,4672,4673,broken up
+2337,4674,4675,broken up
+2338,4676,4677,married
+2339,4678,4679,divorced
+2340,4680,4681,broken up
+2341,4682,4683,broken up
+2342,4684,4685,divorced
+2343,4686,4687,broken up
+2344,4688,4689,broken up
+2345,4690,4691,broken up
+2346,4692,4693,married
+2347,4694,4695,broken up
+2348,4696,4697,still dating
+2349,4698,4699,broken up
+2350,4700,4701,divorced
+2351,4702,4703,broken up
+2352,4704,4705,married
+2353,4706,4707,still dating
+2354,4708,4709,broken up
+2355,4710,4711,married
+2356,4712,4713,still dating
+2357,4714,4715,married
+2358,4716,4717,still dating
+2359,4718,4719,broken up
+2360,4720,4721,broken up
+2361,4722,4723,broken up
+2362,4724,4725,married
+2363,4726,4727,divorced
+2364,4728,4729,broken up
+2365,4730,4731,broken up
+2366,4732,4733,still dating
+2367,4734,4735,broken up
+2368,4736,4737,married
+2369,4738,4739,broken up
+2370,4740,4741,divorced
+2371,4742,4743,broken up
+2372,4744,4745,broken up
+2373,4746,4747,divorced
+2374,4748,4749,still dating
+2375,4750,4751,married
+2376,4752,4753,divorced
+2377,4754,4755,married
+2378,4756,4757,divorced
+2379,4758,4759,married
+2380,4760,4761,still dating
+2381,4762,4763,married
+2382,4764,4765,broken up
+2383,4766,4767,divorced
+2384,4768,4769,broken up
+2385,4770,4771,married
+2386,4772,4773,married
+2387,4774,4775,broken up
+2388,4776,4777,broken up
+2389,4778,4779,divorced
+2390,4780,4781,divorced
+2391,4782,4783,broken up
+2392,4784,4785,broken up
+2393,4786,4787,divorced
+2394,4788,4789,broken up
+2395,4790,4791,broken up
+2396,4792,4793,broken up
+2397,4794,4795,broken up
+2398,4796,4797,divorced
+2399,4798,4799,still dating
+2400,4800,4801,broken up
+2401,4802,4803,broken up
+2402,4804,4805,still dating
+2403,4806,4807,married
+2404,4808,4809,broken up
+2405,4810,4811,broken up
+2406,4812,4813,broken up
+2407,4814,4815,married
+2408,4816,4817,married
+2409,4818,4819,broken up
+2410,4820,4821,married
+2411,4822,4823,broken up
+2412,4824,4825,still dating
+2413,4826,4827,broken up
+2414,4828,4829,broken up
+2415,4830,4831,broken up
+2416,4832,4833,married
+2417,4834,4835,divorced
+2418,4836,4837,married
+2419,4838,4839,broken up
+2420,4840,4841,broken up
+2421,4842,4843,divorced
+2422,4844,4845,married
+2423,4846,4847,broken up
+2424,4848,4849,broken up
+2425,4850,4851,broken up
+2426,4852,4853,broken up
+2427,4854,4855,broken up
+2428,4856,4857,broken up
+2429,4858,4859,broken up
+2430,4860,4861,divorced
+2431,4862,4863,still dating
+2432,4864,4865,divorced
+2433,4866,4867,divorced
+2434,4868,4869,broken up
+2435,4870,4871,married
+2436,4872,4873,broken up
+2437,4874,4875,broken up
+2438,4876,4877,divorced
+2439,4878,4879,divorced
+2440,4880,4881,married
+2441,4882,4883,divorced
+2442,4884,4885,married
+2443,4886,4887,divorced
+2444,4888,4889,broken up
+2445,4890,4891,broken up
+2446,4892,4893,still dating
+2447,4894,4895,broken up
+2448,4896,4897,broken up
+2449,4898,4899,married
+2450,4900,4901,married
+2451,4902,4903,broken up
+2452,4904,4905,broken up
+2453,4906,4907,broken up
+2454,4908,4909,broken up
+2455,4910,4911,broken up
+2456,4912,4913,divorced
+2457,4914,4915,broken up
+2458,4916,4917,married
+2459,4918,4919,still dating
+2460,4920,4921,broken up
+2461,4922,4923,broken up
+2462,4924,4925,broken up
+2463,4926,4927,broken up
+2464,4928,4929,married
+2465,4930,4931,divorced
+2466,4932,4933,married
+2467,4934,4935,married
+2468,4936,4937,broken up
+2469,4938,4939,divorced
+2470,4940,4941,broken up
+2471,4942,4943,broken up
+2472,4944,4945,still dating
+2473,4946,4947,broken up
+2474,4948,4949,married
+2475,4950,4951,divorced
+2476,4952,4953,broken up
+2477,4954,4955,still dating
+2478,4956,4957,broken up
+2479,4958,4959,divorced
+2480,4960,4961,divorced
+2481,4962,4963,broken up
+2482,4964,4965,broken up
+2483,4966,4967,divorced
+2484,4968,4969,broken up
+2485,4970,4971,divorced
+2486,4972,4973,broken up
+2487,4974,4975,divorced
+2488,4976,4977,broken up
+2489,4978,4979,broken up
+2490,4980,4981,broken up
+2491,4982,4983,still dating
+2492,4984,4985,broken up
+2493,4986,4987,married
+2494,4988,4989,divorced
+2495,4990,4991,divorced
+2496,4992,4993,broken up
+2497,4994,4995,broken up
+2498,4996,4997,broken up
+2499,4998,4999,married
+2500,5000,5001,broken up
+2501,5002,5003,divorced
+2502,5004,5005,broken up
+2503,5006,5007,divorced
+2504,5008,5009,broken up
+2505,5010,5011,broken up
+2506,5012,5013,married
+2507,5014,5015,broken up
+2508,5016,5017,broken up
+2509,5018,5019,married
+2510,5020,5021,married
+2511,5022,5023,broken up
+2512,5024,5025,still dating
+2513,5026,5027,married
+2514,5028,5029,broken up
+2515,5030,5031,married
+2516,5032,5033,still dating
+2517,5034,5035,broken up
+2518,5036,5037,broken up
+2519,5038,5039,still dating
+2520,5040,5041,divorced
+2521,5042,5043,married
+2522,5044,5045,married
+2523,5046,5047,divorced
+2524,5048,5049,married
+2525,5050,5051,divorced
+2526,5052,5053,broken up
+2527,5054,5055,divorced
+2528,5056,5057,broken up
+2529,5058,5059,broken up
+2530,5060,5061,broken up
+2531,5062,5063,divorced
+2532,5064,5065,married
+2533,5066,5067,married
+2534,5068,5069,married
+2535,5070,5071,married
+2536,5072,5073,broken up
+2537,5074,5075,married
+2538,5076,5077,still dating
+2539,5078,5079,broken up
+2540,5080,5081,broken up
+2541,5082,5083,still dating
+2542,5084,5085,divorced
+2543,5086,5087,broken up
+2544,5088,5089,broken up
+2545,5090,5091,broken up
+2546,5092,5093,broken up
+2547,5094,5095,still dating
+2548,5096,5097,divorced
+2549,5098,5099,divorced
+2550,5100,5101,still dating
+2551,5102,5103,married
+2552,5104,5105,broken up
+2553,5106,5107,still dating
+2554,5108,5109,broken up
+2555,5110,5111,still dating
+2556,5112,5113,broken up
+2557,5114,5115,broken up
+2558,5116,5117,still dating
+2559,5118,5119,divorced
+2560,5120,5121,divorced
+2561,5122,5123,married
+2562,5124,5125,broken up
+2563,5126,5127,broken up
+2564,5128,5129,still dating
+2565,5130,5131,broken up
+2566,5132,5133,broken up
+2567,5134,5135,divorced
+2568,5136,5137,broken up
+2569,5138,5139,divorced
+2570,5140,5141,married
+2571,5142,5143,married
+2572,5144,5145,broken up
+2573,5146,5147,divorced
+2574,5148,5149,broken up
+2575,5150,5151,still dating
+2576,5152,5153,broken up
+2577,5154,5155,broken up
+2578,5156,5157,divorced
+2579,5158,5159,broken up
+2580,5160,5161,divorced
+2581,5162,5163,broken up
+2582,5164,5165,broken up
+2583,5166,5167,still dating
+2584,5168,5169,divorced
+2585,5170,5171,broken up
+2586,5172,5173,broken up
+2587,5174,5175,divorced
+2588,5176,5177,broken up
+2589,5178,5179,broken up
+2590,5180,5181,still dating
+2591,5182,5183,married
+2592,5184,5185,broken up
+2593,5186,5187,broken up
+2594,5188,5189,divorced
+2595,5190,5191,married
+2596,5192,5193,broken up
+2597,5194,5195,broken up
+2598,5196,5197,divorced
+2599,5198,5199,broken up
+2600,5200,5201,broken up
+2601,5202,5203,divorced
+2602,5204,5205,broken up
+2603,5206,5207,broken up
+2604,5208,5209,broken up
+2605,5210,5211,broken up
+2606,5212,5213,broken up
+2607,5214,5215,married
+2608,5216,5217,broken up
+2609,5218,5219,divorced
+2610,5220,5221,married
+2611,5222,5223,broken up
+2612,5224,5225,broken up
+2613,5226,5227,married
+2614,5228,5229,divorced
+2615,5230,5231,married
+2616,5232,5233,divorced
+2617,5234,5235,broken up
+2618,5236,5237,broken up
+2619,5238,5239,divorced
+2620,5240,5241,broken up
+2621,5242,5243,broken up
+2622,5244,5245,broken up
+2623,5246,5247,married
+2624,5248,5249,broken up
+2625,5250,5251,married
+2626,5252,5253,still dating
+2627,5254,5255,broken up
+2628,5256,5257,broken up
+2629,5258,5259,divorced
+2630,5260,5261,broken up
+2631,5262,5263,broken up
+2632,5264,5265,married
+2633,5266,5267,divorced
+2634,5268,5269,still dating
+2635,5270,5271,married
+2636,5272,5273,broken up
+2637,5274,5275,broken up
+2638,5276,5277,broken up
+2639,5278,5279,broken up
+2640,5280,5281,broken up
+2641,5282,5283,broken up
+2642,5284,5285,broken up
+2643,5286,5287,broken up
+2644,5288,5289,broken up
+2645,5290,5291,still dating
+2646,5292,5293,broken up
+2647,5294,5295,broken up
+2648,5296,5297,still dating
+2649,5298,5299,broken up
+2650,5300,5301,divorced
+2651,5302,5303,married
+2652,5304,5305,divorced
+2653,5306,5307,broken up
+2654,5308,5309,broken up
+2655,5310,5311,broken up
+2656,5312,5313,divorced
+2657,5314,5315,still dating
+2658,5316,5317,broken up
+2659,5318,5319,still dating
+2660,5320,5321,married
+2661,5322,5323,married
+2662,5324,5325,still dating
+2663,5326,5327,married
+2664,5328,5329,divorced
+2665,5330,5331,broken up
+2666,5332,5333,still dating
+2667,5334,5335,broken up
+2668,5336,5337,broken up
+2669,5338,5339,married
+2670,5340,5341,broken up
+2671,5342,5343,still dating
+2672,5344,5345,broken up
+2673,5346,5347,broken up
+2674,5348,5349,married
+2675,5350,5351,married
+2676,5352,5353,married
+2677,5354,5355,broken up
+2678,5356,5357,broken up
+2679,5358,5359,broken up
+2680,5360,5361,broken up
+2681,5362,5363,divorced
+2682,5364,5365,divorced
+2683,5366,5367,broken up
+2684,5368,5369,broken up
+2685,5370,5371,married
+2686,5372,5373,divorced
+2687,5374,5375,married
+2688,5376,5377,broken up
+2689,5378,5379,broken up
+2690,5380,5381,married
+2691,5382,5383,broken up
+2692,5384,5385,broken up
+2693,5386,5387,married
+2694,5388,5389,married
+2695,5390,5391,broken up
+2696,5392,5393,broken up
+2697,5394,5395,divorced
+2698,5396,5397,divorced
+2699,5398,5399,broken up
+2700,5400,5401,married
+2701,5402,5403,broken up
+2702,5404,5405,married
+2703,5406,5407,married
+2704,5408,5409,married
+2705,5410,5411,married
+2706,5412,5413,still dating
+2707,5414,5415,broken up
+2708,5416,5417,broken up
+2709,5418,5419,broken up
+2710,5420,5421,broken up
+2711,5422,5423,divorced
+2712,5424,5425,married
+2713,5426,5427,broken up
+2714,5428,5429,broken up
+2715,5430,5431,broken up
+2716,5432,5433,broken up
+2717,5434,5435,broken up
+2718,5436,5437,still dating
+2719,5438,5439,divorced
+2720,5440,5441,broken up
+2721,5442,5443,broken up
+2722,5444,5445,married
+2723,5446,5447,broken up
+2724,5448,5449,married
+2725,5450,5451,married
+2726,5452,5453,broken up
+2727,5454,5455,broken up
+2728,5456,5457,still dating
+2729,5458,5459,broken up
+2730,5460,5461,divorced
+2731,5462,5463,broken up
+2732,5464,5465,broken up
+2733,5466,5467,married
+2734,5468,5469,still dating
+2735,5470,5471,divorced
+2736,5472,5473,still dating
+2737,5474,5475,broken up
+2738,5476,5477,broken up
+2739,5478,5479,still dating
+2740,5480,5481,married
+2741,5482,5483,married
+2742,5484,5485,divorced
+2743,5486,5487,broken up
+2744,5488,5489,married
+2745,5490,5491,divorced
+2746,5492,5493,divorced
+2747,5494,5495,broken up
+2748,5496,5497,broken up
+2749,5498,5499,married
+2750,5500,5501,broken up
+2751,5502,5503,broken up
+2752,5504,5505,divorced
+2753,5506,5507,broken up
+2754,5508,5509,divorced
+2755,5510,5511,still dating
+2756,5512,5513,broken up
+2757,5514,5515,broken up
+2758,5516,5517,married
+2759,5518,5519,married
+2760,5520,5521,broken up
+2761,5522,5523,broken up
+2762,5524,5525,still dating
+2763,5526,5527,broken up
+2764,5528,5529,still dating
+2765,5530,5531,broken up
+2766,5532,5533,broken up
+2767,5534,5535,still dating
+2768,5536,5537,broken up
+2769,5538,5539,broken up
+2770,5540,5541,broken up
+2771,5542,5543,divorced
+2772,5544,5545,broken up
+2773,5546,5547,broken up
+2774,5548,5549,broken up
+2775,5550,5551,broken up
+2776,5552,5553,broken up
+2777,5554,5555,still dating
+2778,5556,5557,broken up
+2779,5558,5559,broken up
+2780,5560,5561,married
+2781,5562,5563,divorced
+2782,5564,5565,divorced
+2783,5566,5567,broken up
+2784,5568,5569,broken up
+2785,5570,5571,broken up
+2786,5572,5573,still dating
+2787,5574,5575,broken up
+2788,5576,5577,divorced
+2789,5578,5579,broken up
+2790,5580,5581,married
+2791,5582,5583,broken up
+2792,5584,5585,broken up
+2793,5586,5587,broken up
+2794,5588,5589,broken up
+2795,5590,5591,broken up
+2796,5592,5593,broken up
+2797,5594,5595,broken up
+2798,5596,5597,broken up
+2799,5598,5599,broken up
+2800,5600,5601,still dating
+2801,5602,5603,married
+2802,5604,5605,broken up
+2803,5606,5607,still dating
+2804,5608,5609,still dating
+2805,5610,5611,broken up
+2806,5612,5613,broken up
+2807,5614,5615,broken up
+2808,5616,5617,divorced
+2809,5618,5619,broken up
+2810,5620,5621,divorced
+2811,5622,5623,married
+2812,5624,5625,divorced
+2813,5626,5627,still dating
+2814,5628,5629,divorced
+2815,5630,5631,broken up
+2816,5632,5633,divorced
+2817,5634,5635,still dating
+2818,5636,5637,broken up
+2819,5638,5639,divorced
+2820,5640,5641,married
+2821,5642,5643,broken up
+2822,5644,5645,broken up
+2823,5646,5647,divorced
+2824,5648,5649,married
+2825,5650,5651,married
+2826,5652,5653,broken up
+2827,5654,5655,divorced
+2828,5656,5657,married
+2829,5658,5659,broken up
+2830,5660,5661,divorced
+2831,5662,5663,broken up
+2832,5664,5665,married
+2833,5666,5667,divorced
+2834,5668,5669,divorced
+2835,5670,5671,married
+2836,5672,5673,divorced
+2837,5674,5675,broken up
+2838,5676,5677,divorced
+2839,5678,5679,broken up
+2840,5680,5681,broken up
+2841,5682,5683,divorced
+2842,5684,5685,broken up
+2843,5686,5687,still dating
+2844,5688,5689,divorced
+2845,5690,5691,broken up
+2846,5692,5693,still dating
+2847,5694,5695,married
+2848,5696,5697,broken up
+2849,5698,5699,broken up
+2850,5700,5701,broken up
+2851,5702,5703,broken up
+2852,5704,5705,married
+2853,5706,5707,broken up
+2854,5708,5709,broken up
+2855,5710,5711,broken up
+2856,5712,5713,married
+2857,5714,5715,broken up
+2858,5716,5717,broken up
+2859,5718,5719,divorced
+2860,5720,5721,broken up
+2861,5722,5723,married
+2862,5724,5725,broken up
+2863,5726,5727,married
+2864,5728,5729,still dating
+2865,5730,5731,still dating
+2866,5732,5733,broken up
+2867,5734,5735,still dating
+2868,5736,5737,married
+2869,5738,5739,divorced
+2870,5740,5741,broken up
+2871,5742,5743,broken up
+2872,5744,5745,broken up
+2873,5746,5747,divorced
+2874,5748,5749,broken up
+2875,5750,5751,married
+2876,5752,5753,broken up
+2877,5754,5755,broken up
+2878,5756,5757,broken up
+2879,5758,5759,divorced
+2880,5760,5761,broken up
+2881,5762,5763,broken up
+2882,5764,5765,married
+2883,5766,5767,broken up
+2884,5768,5769,divorced
+2885,5770,5771,still dating
+2886,5772,5773,still dating
+2887,5774,5775,divorced
+2888,5776,5777,still dating
+2889,5778,5779,broken up
+2890,5780,5781,broken up
+2891,5782,5783,divorced
+2892,5784,5785,broken up
+2893,5786,5787,still dating
+2894,5788,5789,married
+2895,5790,5791,broken up
+2896,5792,5793,broken up
+2897,5794,5795,divorced
+2898,5796,5797,broken up
+2899,5798,5799,married
+2900,5800,5801,broken up
+2901,5802,5803,broken up
+2902,5804,5805,broken up
+2903,5806,5807,married
+2904,5808,5809,married
+2905,5810,5811,broken up
+2906,5812,5813,divorced
+2907,5814,5815,divorced
+2908,5816,5817,broken up
+2909,5818,5819,still dating
+2910,5820,5821,broken up
+2911,5822,5823,broken up
+2912,5824,5825,married
+2913,5826,5827,still dating
+2914,5828,5829,broken up
+2915,5830,5831,broken up
+2916,5832,5833,broken up
+2917,5834,5835,broken up
+2918,5836,5837,still dating
+2919,5838,5839,married
+2920,5840,5841,broken up
+2921,5842,5843,divorced
+2922,5844,5845,still dating
+2923,5846,5847,broken up
+2924,5848,5849,divorced
+2925,5850,5851,married
+2926,5852,5853,broken up
+2927,5854,5855,broken up
+2928,5856,5857,still dating
+2929,5858,5859,divorced
+2930,5860,5861,broken up
+2931,5862,5863,still dating
+2932,5864,5865,broken up
+2933,5866,5867,married
+2934,5868,5869,broken up
+2935,5870,5871,divorced
+2936,5872,5873,still dating
+2937,5874,5875,still dating
+2938,5876,5877,broken up
+2939,5878,5879,broken up
+2940,5880,5881,still dating
+2941,5882,5883,married
+2942,5884,5885,broken up
+2943,5886,5887,broken up
+2944,5888,5889,divorced
+2945,5890,5891,married
+2946,5892,5893,broken up
+2947,5894,5895,broken up
+2948,5896,5897,broken up
+2949,5898,5899,still dating
+2950,5900,5901,still dating
+2951,5902,5903,divorced
+2952,5904,5905,broken up
+2953,5906,5907,divorced
+2954,5908,5909,divorced
+2955,5910,5911,divorced
+2956,5912,5913,divorced
+2957,5914,5915,still dating
+2958,5916,5917,broken up
+2959,5918,5919,married
+2960,5920,5921,broken up
+2961,5922,5923,broken up
+2962,5924,5925,broken up
+2963,5926,5927,still dating
+2964,5928,5929,broken up
+2965,5930,5931,broken up
+2966,5932,5933,broken up
+2967,5934,5935,broken up
+2968,5936,5937,broken up
+2969,5938,5939,broken up
+2970,5940,5941,broken up
+2971,5942,5943,married
+2972,5944,5945,married
+2973,5946,5947,divorced
+2974,5948,5949,broken up
+2975,5950,5951,broken up
+2976,5952,5953,married
+2977,5954,5955,broken up
+2978,5956,5957,divorced
+2979,5958,5959,married
+2980,5960,5961,broken up
+2981,5962,5963,broken up
+2982,5964,5965,divorced
+2983,5966,5967,divorced
+2984,5968,5969,broken up
+2985,5970,5971,broken up
+2986,5972,5973,broken up
+2987,5974,5975,broken up
+2988,5976,5977,broken up
+2989,5978,5979,broken up
+2990,5980,5981,broken up
+2991,5982,5983,divorced
+2992,5984,5985,married
+2993,5986,5987,married
+2994,5988,5989,broken up
+2995,5990,5991,still dating
+2996,5992,5993,broken up
+2997,5994,5995,broken up
+2998,5996,5997,broken up
+2999,5998,5999,married
+3000,6000,6001,broken up
+3001,6002,6003,married
+3002,6004,6005,married
+3003,6006,6007,broken up
+3004,6008,6009,broken up
+3005,6010,6011,still dating
+3006,6012,6013,divorced
+3007,6014,6015,married
+3008,6016,6017,broken up
+3009,6018,6019,broken up
+3010,6020,6021,broken up
+3011,6022,6023,broken up
+3012,6024,6025,divorced
+3013,6026,6027,broken up
+3014,6028,6029,married
+3015,6030,6031,still dating
+3016,6032,6033,divorced
+3017,6034,6035,broken up
+3018,6036,6037,broken up
+3019,6038,6039,divorced
+3020,6040,6041,broken up
+3021,6042,6043,broken up
+3022,6044,6045,married
+3023,6046,6047,still dating
+3024,6048,6049,divorced
+3025,6050,6051,still dating
+3026,6052,6053,still dating
+3027,6054,6055,divorced
+3028,6056,6057,married
+3029,6058,6059,broken up
+3030,6060,6061,broken up
+3031,6062,6063,broken up
+3032,6064,6065,still dating
+3033,6066,6067,married
+3034,6068,6069,broken up
+3035,6070,6071,broken up
+3036,6072,6073,broken up
+3037,6074,6075,divorced
+3038,6076,6077,broken up
+3039,6078,6079,broken up
+3040,6080,6081,divorced
+3041,6082,6083,divorced
+3042,6084,6085,broken up
+3043,6086,6087,broken up
+3044,6088,6089,still dating
+3045,6090,6091,broken up
+3046,6092,6093,still dating
+3047,6094,6095,married
+3048,6096,6097,married
+3049,6098,6099,still dating
+3050,6100,6101,broken up
+3051,6102,6103,broken up
+3052,6104,6105,broken up
+3053,6106,6107,broken up
+3054,6108,6109,broken up
+3055,6110,6111,broken up
+3056,6112,6113,broken up
+3057,6114,6115,divorced
+3058,6116,6117,divorced
+3059,6118,6119,broken up
+3060,6120,6121,divorced
+3061,6122,6123,broken up
+3062,6124,6125,broken up
+3063,6126,6127,married
+3064,6128,6129,married
+3065,6130,6131,broken up
+3066,6132,6133,broken up
+3067,6134,6135,broken up
+3068,6136,6137,divorced
+3069,6138,6139,married
+3070,6140,6141,broken up
+3071,6142,6143,divorced
+3072,6144,6145,broken up
+3073,6146,6147,broken up
+3074,6148,6149,broken up
+3075,6150,6151,divorced
+3076,6152,6153,broken up
+3077,6154,6155,broken up
+3078,6156,6157,married
+3079,6158,6159,still dating
+3080,6160,6161,divorced
+3081,6162,6163,broken up
+3082,6164,6165,divorced
+3083,6166,6167,broken up
+3084,6168,6169,married
+3085,6170,6171,broken up
+3086,6172,6173,broken up
+3087,6174,6175,broken up
+3088,6176,6177,divorced
+3089,6178,6179,broken up
+3090,6180,6181,divorced
+3091,6182,6183,broken up
+3092,6184,6185,still dating
+3093,6186,6187,broken up
+3094,6188,6189,broken up
+3095,6190,6191,broken up
+3096,6192,6193,broken up
+3097,6194,6195,divorced
+3098,6196,6197,married
+3099,6198,6199,still dating
+3100,6200,6201,broken up
+3101,6202,6203,broken up
+3102,6204,6205,married
+3103,6206,6207,still dating
+3104,6208,6209,still dating
+3105,6210,6211,broken up
+3106,6212,6213,broken up
+3107,6214,6215,broken up
+3108,6216,6217,married
+3109,6218,6219,still dating
+3110,6220,6221,married
+3111,6222,6223,broken up
+3112,6224,6225,divorced
+3113,6226,6227,married
+3114,6228,6229,married
+3115,6230,6231,broken up
+3116,6232,6233,broken up
+3117,6234,6235,broken up
+3118,6236,6237,broken up
+3119,6238,6239,married
+3120,6240,6241,still dating
+3121,6242,6243,still dating
+3122,6244,6245,broken up
+3123,6246,6247,married
+3124,6248,6249,married
+3125,6250,6251,married
+3126,6252,6253,still dating
+3127,6254,6255,broken up
+3128,6256,6257,married
+3129,6258,6259,broken up
+3130,6260,6261,broken up
+3131,6262,6263,divorced
+3132,6264,6265,broken up
+3133,6266,6267,married
+3134,6268,6269,married
+3135,6270,6271,broken up
+3136,6272,6273,broken up
+3137,6274,6275,broken up
+3138,6276,6277,still dating
+3139,6278,6279,still dating
+3140,6280,6281,broken up
+3141,6282,6283,still dating
+3142,6284,6285,broken up
+3143,6286,6287,divorced
+3144,6288,6289,divorced
+3145,6290,6291,broken up
+3146,6292,6293,broken up
+3147,6294,6295,divorced
+3148,6296,6297,married
+3149,6298,6299,still dating
+3150,6300,6301,broken up
+3151,6302,6303,broken up
+3152,6304,6305,broken up
+3153,6306,6307,still dating
+3154,6308,6309,still dating
+3155,6310,6311,broken up
+3156,6312,6313,divorced
+3157,6314,6315,married
+3158,6316,6317,broken up
+3159,6318,6319,broken up
+3160,6320,6321,divorced
+3161,6322,6323,still dating
+3162,6324,6325,divorced
+3163,6326,6327,broken up
+3164,6328,6329,broken up
+3165,6330,6331,still dating
+3166,6332,6333,divorced
+3167,6334,6335,broken up
+3168,6336,6337,divorced
+3169,6338,6339,divorced
+3170,6340,6341,broken up
+3171,6342,6343,broken up
+3172,6344,6345,broken up
+3173,6346,6347,married
+3174,6348,6349,broken up
+3175,6350,6351,still dating
+3176,6352,6353,divorced
+3177,6354,6355,broken up
+3178,6356,6357,still dating
+3179,6358,6359,broken up
+3180,6360,6361,broken up
+3181,6362,6363,married
+3182,6364,6365,broken up
+3183,6366,6367,married
+3184,6368,6369,broken up
+3185,6370,6371,divorced
+3186,6372,6373,broken up
+3187,6374,6375,broken up
+3188,6376,6377,divorced
+3189,6378,6379,broken up
+3190,6380,6381,broken up
+3191,6382,6383,broken up
+3192,6384,6385,broken up
+3193,6386,6387,broken up
+3194,6388,6389,married
+3195,6390,6391,broken up
+3196,6392,6393,still dating
+3197,6394,6395,divorced
+3198,6396,6397,married
+3199,6398,6399,still dating
+3200,6400,6401,broken up
+3201,6402,6403,divorced
+3202,6404,6405,married
+3203,6406,6407,still dating
+3204,6408,6409,married
+3205,6410,6411,broken up
+3206,6412,6413,broken up
+3207,6414,6415,married
+3208,6416,6417,broken up
+3209,6418,6419,broken up
+3210,6420,6421,married
+3211,6422,6423,broken up
+3212,6424,6425,married
+3213,6426,6427,broken up
+3214,6428,6429,broken up
+3215,6430,6431,broken up
+3216,6432,6433,broken up
+3217,6434,6435,broken up
+3218,6436,6437,broken up
+3219,6438,6439,divorced
+3220,6440,6441,broken up
+3221,6442,6443,divorced
+3222,6444,6445,broken up
+3223,6446,6447,broken up
+3224,6448,6449,broken up
+3225,6450,6451,broken up
+3226,6452,6453,married
+3227,6454,6455,divorced
+3228,6456,6457,married
+3229,6458,6459,broken up
+3230,6460,6461,broken up
+3231,6462,6463,married
+3232,6464,6465,still dating
+3233,6466,6467,broken up
+3234,6468,6469,married
+3235,6470,6471,broken up
+3236,6472,6473,broken up
+3237,6474,6475,divorced
+3238,6476,6477,divorced
+3239,6478,6479,broken up
+3240,6480,6481,married
+3241,6482,6483,broken up
+3242,6484,6485,married
+3243,6486,6487,broken up
+3244,6488,6489,married
+3245,6490,6491,married
+3246,6492,6493,divorced
+3247,6494,6495,broken up
+3248,6496,6497,divorced
+3249,6498,6499,broken up
+3250,6500,6501,broken up
+3251,6502,6503,broken up
+3252,6504,6505,broken up
+3253,6506,6507,broken up
+3254,6508,6509,broken up
+3255,6510,6511,broken up
+3256,6512,6513,still dating
+3257,6514,6515,divorced
+3258,6516,6517,married
+3259,6518,6519,broken up
+3260,6520,6521,married
+3261,6522,6523,broken up
+3262,6524,6525,broken up
+3263,6526,6527,married
+3264,6528,6529,married
+3265,6530,6531,married
+3266,6532,6533,still dating
+3267,6534,6535,broken up
+3268,6536,6537,married
+3269,6538,6539,broken up
+3270,6540,6541,divorced
+3271,6542,6543,broken up
+3272,6544,6545,married
+3273,6546,6547,still dating
+3274,6548,6549,broken up
+3275,6550,6551,married
+3276,6552,6553,broken up
+3277,6554,6555,divorced
+3278,6556,6557,broken up
+3279,6558,6559,broken up
+3280,6560,6561,still dating
+3281,6562,6563,married
+3282,6564,6565,broken up
+3283,6566,6567,broken up
+3284,6568,6569,married
+3285,6570,6571,broken up
+3286,6572,6573,married
+3287,6574,6575,still dating
+3288,6576,6577,married
+3289,6578,6579,broken up
+3290,6580,6581,married
+3291,6582,6583,married
+3292,6584,6585,broken up
+3293,6586,6587,broken up
+3294,6588,6589,broken up
+3295,6590,6591,divorced
+3296,6592,6593,married
+3297,6594,6595,still dating
+3298,6596,6597,broken up
+3299,6598,6599,divorced
+3300,6600,6601,married
+3301,6602,6603,still dating
+3302,6604,6605,broken up
+3303,6606,6607,divorced
+3304,6608,6609,married
+3305,6610,6611,divorced
+3306,6612,6613,broken up
+3307,6614,6615,broken up
+3308,6616,6617,broken up
+3309,6618,6619,divorced
+3310,6620,6621,broken up
+3311,6622,6623,married
+3312,6624,6625,divorced
+3313,6626,6627,married
+3314,6628,6629,broken up
+3315,6630,6631,broken up
+3316,6632,6633,broken up
+3317,6634,6635,married
+3318,6636,6637,broken up
+3319,6638,6639,divorced
+3320,6640,6641,married
+3321,6642,6643,divorced
+3322,6644,6645,broken up
+3323,6646,6647,broken up
+3324,6648,6649,broken up
+3325,6650,6651,broken up
+3326,6652,6653,broken up
+3327,6654,6655,married
+3328,6656,6657,broken up
+3329,6658,6659,broken up
+3330,6660,6661,broken up
+3331,6662,6663,divorced
+3332,6664,6665,broken up
+3333,6666,6667,divorced
+3334,6668,6669,broken up
+3335,6670,6671,married
+3336,6672,6673,divorced
+3337,6674,6675,broken up
+3338,6676,6677,married
+3339,6678,6679,married
+3340,6680,6681,broken up
+3341,6682,6683,married
+3342,6684,6685,broken up
+3343,6686,6687,divorced
+3344,6688,6689,broken up
+3345,6690,6691,married
+3346,6692,6693,broken up
+3347,6694,6695,married
+3348,6696,6697,divorced
+3349,6698,6699,divorced
+3350,6700,6701,broken up
+3351,6702,6703,broken up
+3352,6704,6705,still dating
+3353,6706,6707,broken up
+3354,6708,6709,married
+3355,6710,6711,married
+3356,6712,6713,broken up
+3357,6714,6715,broken up
+3358,6716,6717,broken up
+3359,6718,6719,broken up
+3360,6720,6721,married
+3361,6722,6723,still dating
+3362,6724,6725,still dating
+3363,6726,6727,divorced
+3364,6728,6729,still dating
+3365,6730,6731,divorced
+3366,6732,6733,broken up
+3367,6734,6735,divorced
+3368,6736,6737,broken up
+3369,6738,6739,married
+3370,6740,6741,broken up
+3371,6742,6743,divorced
+3372,6744,6745,still dating
+3373,6746,6747,married
+3374,6748,6749,married
+3375,6750,6751,divorced
+3376,6752,6753,broken up
+3377,6754,6755,divorced
+3378,6756,6757,still dating
+3379,6758,6759,broken up
+3380,6760,6761,broken up
+3381,6762,6763,divorced
+3382,6764,6765,broken up
+3383,6766,6767,broken up
+3384,6768,6769,married
+3385,6770,6771,divorced
+3386,6772,6773,broken up
+3387,6774,6775,broken up
+3388,6776,6777,married
+3389,6778,6779,broken up
+3390,6780,6781,still dating
+3391,6782,6783,broken up
+3392,6784,6785,married
+3393,6786,6787,broken up
+3394,6788,6789,still dating
+3395,6790,6791,married
+3396,6792,6793,married
+3397,6794,6795,married
+3398,6796,6797,still dating
+3399,6798,6799,broken up
+3400,6800,6801,broken up
+3401,6802,6803,married
+3402,6804,6805,broken up
+3403,6806,6807,still dating
+3404,6808,6809,still dating
+3405,6810,6811,broken up
+3406,6812,6813,still dating
+3407,6814,6815,broken up
+3408,6816,6817,married
+3409,6818,6819,still dating
+3410,6820,6821,broken up
+3411,6822,6823,married
+3412,6824,6825,broken up
+3413,6826,6827,broken up
+3414,6828,6829,broken up
+3415,6830,6831,divorced
+3416,6832,6833,divorced
+3417,6834,6835,broken up
+3418,6836,6837,broken up
+3419,6838,6839,broken up
+3420,6840,6841,broken up
+3421,6842,6843,divorced
+3422,6844,6845,broken up
+3423,6846,6847,broken up
+3424,6848,6849,broken up
+3425,6850,6851,married
+3426,6852,6853,divorced
+3427,6854,6855,broken up
+3428,6856,6857,broken up
+3429,6858,6859,broken up
+3430,6860,6861,broken up
+3431,6862,6863,divorced
+3432,6864,6865,still dating
+3433,6866,6867,married
+3434,6868,6869,broken up
+3435,6870,6871,broken up
+3436,6872,6873,married
+3437,6874,6875,broken up
+3438,6876,6877,broken up
+3439,6878,6879,broken up
+3440,6880,6881,broken up
+3441,6882,6883,divorced
+3442,6884,6885,married
+3443,6886,6887,divorced
+3444,6888,6889,married
+3445,6890,6891,broken up
+3446,6892,6893,married
+3447,6894,6895,broken up
+3448,6896,6897,still dating
+3449,6898,6899,broken up
+3450,6900,6901,broken up
+3451,6902,6903,divorced
+3452,6904,6905,broken up
+3453,6906,6907,divorced
+3454,6908,6909,broken up
+3455,6910,6911,broken up
+3456,6912,6913,broken up
+3457,6914,6915,divorced
+3458,6916,6917,divorced
+3459,6918,6919,married
+3460,6920,6921,broken up
+3461,6922,6923,broken up
+3462,6924,6925,broken up
+3463,6926,6927,still dating
+3464,6928,6929,broken up
+3465,6930,6931,still dating
+3466,6932,6933,divorced
+3467,6934,6935,divorced
+3468,6936,6937,broken up
+3469,6938,6939,broken up
+3470,6940,6941,still dating
+3471,6942,6943,still dating
+3472,6944,6945,still dating
+3473,6946,6947,broken up
+3474,6948,6949,married
+3475,6950,6951,divorced
+3476,6952,6953,broken up
+3477,6954,6955,broken up
+3478,6956,6957,married
+3479,6958,6959,still dating
+3480,6960,6961,broken up
+3481,6962,6963,divorced
+3482,6964,6965,broken up
+3483,6966,6967,broken up
+3484,6968,6969,divorced
+3485,6970,6971,broken up
+3486,6972,6973,still dating
+3487,6974,6975,divorced
+3488,6976,6977,married
+3489,6978,6979,broken up
+3490,6980,6981,divorced
+3491,6982,6983,broken up
+3492,6984,6985,divorced
+3493,6986,6987,broken up
+3494,6988,6989,married
+3495,6990,6991,broken up
+3496,6992,6993,broken up
+3497,6994,6995,broken up
+3498,6996,6997,broken up
+3499,6998,6999,divorced
+3500,7000,7001,married
+3501,7002,7003,broken up
+3502,7004,7005,married
+3503,7006,7007,broken up
+3504,7008,7009,broken up
+3505,7010,7011,divorced
+3506,7012,7013,married
+3507,7014,7015,broken up
+3508,7016,7017,broken up
+3509,7018,7019,broken up
+3510,7020,7021,divorced
+3511,7022,7023,married
+3512,7024,7025,married
+3513,7026,7027,married
+3514,7028,7029,broken up
+3515,7030,7031,married
+3516,7032,7033,divorced
+3517,7034,7035,still dating
+3518,7036,7037,broken up
+3519,7038,7039,broken up
+3520,7040,7041,broken up
+3521,7042,7043,still dating
+3522,7044,7045,married
+3523,7046,7047,broken up
+3524,7048,7049,broken up
+3525,7050,7051,broken up
+3526,7052,7053,broken up
+3527,7054,7055,married
+3528,7056,7057,broken up
+3529,7058,7059,broken up
+3530,7060,7061,married
+3531,7062,7063,broken up
+3532,7064,7065,divorced
+3533,7066,7067,broken up
+3534,7068,7069,married
+3535,7070,7071,still dating
+3536,7072,7073,married
+3537,7074,7075,married
+3538,7076,7077,divorced
+3539,7078,7079,broken up
+3540,7080,7081,divorced
+3541,7082,7083,broken up
+3542,7084,7085,divorced
+3543,7086,7087,divorced
+3544,7088,7089,married
+3545,7090,7091,broken up
+3546,7092,7093,broken up
+3547,7094,7095,still dating
+3548,7096,7097,broken up
+3549,7098,7099,broken up
+3550,7100,7101,broken up
+3551,7102,7103,married
+3552,7104,7105,broken up
+3553,7106,7107,broken up
+3554,7108,7109,divorced
+3555,7110,7111,broken up
+3556,7112,7113,still dating
+3557,7114,7115,broken up
+3558,7116,7117,still dating
+3559,7118,7119,married
+3560,7120,7121,broken up
+3561,7122,7123,divorced
+3562,7124,7125,broken up
+3563,7126,7127,married
+3564,7128,7129,broken up
+3565,7130,7131,married
+3566,7132,7133,broken up
+3567,7134,7135,married
+3568,7136,7137,married
+3569,7138,7139,broken up
+3570,7140,7141,married
+3571,7142,7143,broken up
+3572,7144,7145,broken up
+3573,7146,7147,married
+3574,7148,7149,broken up
+3575,7150,7151,broken up
+3576,7152,7153,divorced
+3577,7154,7155,broken up
+3578,7156,7157,broken up
+3579,7158,7159,divorced
+3580,7160,7161,married
+3581,7162,7163,broken up
+3582,7164,7165,divorced
+3583,7166,7167,married
+3584,7168,7169,divorced
+3585,7170,7171,still dating
+3586,7172,7173,still dating
+3587,7174,7175,broken up
+3588,7176,7177,broken up
+3589,7178,7179,divorced
+3590,7180,7181,divorced
+3591,7182,7183,broken up
+3592,7184,7185,broken up
+3593,7186,7187,divorced
+3594,7188,7189,divorced
+3595,7190,7191,divorced
+3596,7192,7193,still dating
+3597,7194,7195,married
+3598,7196,7197,broken up
+3599,7198,7199,still dating
+3600,7200,7201,married
+3601,7202,7203,married
+3602,7204,7205,married
+3603,7206,7207,broken up
+3604,7208,7209,married
+3605,7210,7211,divorced
+3606,7212,7213,broken up
+3607,7214,7215,broken up
+3608,7216,7217,broken up
+3609,7218,7219,married
+3610,7220,7221,divorced
+3611,7222,7223,broken up
+3612,7224,7225,married
+3613,7226,7227,divorced
+3614,7228,7229,broken up
+3615,7230,7231,divorced
+3616,7232,7233,married
+3617,7234,7235,broken up
+3618,7236,7237,broken up
+3619,7238,7239,broken up
+3620,7240,7241,broken up
+3621,7242,7243,broken up
+3622,7244,7245,broken up
+3623,7246,7247,broken up
+3624,7248,7249,broken up
+3625,7250,7251,broken up
+3626,7252,7253,broken up
+3627,7254,7255,broken up
+3628,7256,7257,broken up
+3629,7258,7259,broken up
+3630,7260,7261,divorced
+3631,7262,7263,broken up
+3632,7264,7265,divorced
+3633,7266,7267,broken up
+3634,7268,7269,still dating
+3635,7270,7271,broken up
+3636,7272,7273,broken up
+3637,7274,7275,divorced
+3638,7276,7277,broken up
+3639,7278,7279,broken up
+3640,7280,7281,still dating
+3641,7282,7283,divorced
+3642,7284,7285,broken up
+3643,7286,7287,married
+3644,7288,7289,broken up
+3645,7290,7291,married
+3646,7292,7293,still dating
+3647,7294,7295,broken up
+3648,7296,7297,divorced
+3649,7298,7299,married
+3650,7300,7301,broken up
+3651,7302,7303,broken up
+3652,7304,7305,divorced
+3653,7306,7307,married
+3654,7308,7309,still dating
+3655,7310,7311,broken up
+3656,7312,7313,still dating
+3657,7314,7315,broken up
+3658,7316,7317,broken up
+3659,7318,7319,divorced
+3660,7320,7321,divorced
+3661,7322,7323,divorced
+3662,7324,7325,divorced
+3663,7326,7327,married
+3664,7328,7329,married
+3665,7330,7331,broken up
+3666,7332,7333,broken up
+3667,7334,7335,married
+3668,7336,7337,broken up
+3669,7338,7339,divorced
+3670,7340,7341,broken up
+3671,7342,7343,broken up
+3672,7344,7345,broken up
+3673,7346,7347,broken up
+3674,7348,7349,broken up
+3675,7350,7351,divorced
+3676,7352,7353,broken up
+3677,7354,7355,divorced
+3678,7356,7357,broken up
+3679,7358,7359,broken up
+3680,7360,7361,broken up
+3681,7362,7363,broken up
+3682,7364,7365,broken up
+3683,7366,7367,broken up
+3684,7368,7369,married
+3685,7370,7371,married
+3686,7372,7373,divorced
+3687,7374,7375,broken up
+3688,7376,7377,divorced
+3689,7378,7379,married
+3690,7380,7381,married
+3691,7382,7383,broken up
+3692,7384,7385,divorced
+3693,7386,7387,married
+3694,7388,7389,broken up
+3695,7390,7391,broken up
+3696,7392,7393,broken up
+3697,7394,7395,married
+3698,7396,7397,broken up
+3699,7398,7399,broken up
+3700,7400,7401,married
+3701,7402,7403,married
+3702,7404,7405,broken up
+3703,7406,7407,married
+3704,7408,7409,broken up
+3705,7410,7411,broken up
+3706,7412,7413,broken up
+3707,7414,7415,married
+3708,7416,7417,broken up
+3709,7418,7419,married
+3710,7420,7421,broken up
+3711,7422,7423,broken up
+3712,7424,7425,broken up
+3713,7426,7427,broken up
+3714,7428,7429,divorced
+3715,7430,7431,broken up
+3716,7432,7433,married
+3717,7434,7435,broken up
+3718,7436,7437,broken up
+3719,7438,7439,divorced
+3720,7440,7441,married
+3721,7442,7443,divorced
+3722,7444,7445,broken up
+3723,7446,7447,broken up
+3724,7448,7449,broken up
+3725,7450,7451,divorced
+3726,7452,7453,divorced
+3727,7454,7455,broken up
+3728,7456,7457,broken up
+3729,7458,7459,broken up
+3730,7460,7461,divorced
+3731,7462,7463,married
+3732,7464,7465,married
+3733,7466,7467,broken up
+3734,7468,7469,divorced
+3735,7470,7471,broken up
+3736,7472,7473,broken up
+3737,7474,7475,married
+3738,7476,7477,married
+3739,7478,7479,married
+3740,7480,7481,married
+3741,7482,7483,broken up
+3742,7484,7485,married
+3743,7486,7487,married
+3744,7488,7489,broken up
+3745,7490,7491,broken up
+3746,7492,7493,broken up
+3747,7494,7495,broken up
+3748,7496,7497,broken up
+3749,7498,7499,broken up
+3750,7500,7501,broken up
+3751,7502,7503,divorced
+3752,7504,7505,divorced
+3753,7506,7507,broken up
+3754,7508,7509,married
+3755,7510,7511,still dating
+3756,7512,7513,divorced
+3757,7514,7515,divorced
+3758,7516,7517,broken up
+3759,7518,7519,broken up
+3760,7520,7521,married
+3761,7522,7523,broken up
+3762,7524,7525,broken up
+3763,7526,7527,broken up
+3764,7528,7529,divorced
+3765,7530,7531,married
+3766,7532,7533,broken up
+3767,7534,7535,broken up
+3768,7536,7537,broken up
+3769,7538,7539,married
+3770,7540,7541,married
+3771,7542,7543,divorced
+3772,7544,7545,broken up
+3773,7546,7547,broken up
+3774,7548,7549,divorced
+3775,7550,7551,still dating
+3776,7552,7553,broken up
+3777,7554,7555,divorced
+3778,7556,7557,divorced
+3779,7558,7559,married
+3780,7560,7561,broken up
+3781,7562,7563,broken up
+3782,7564,7565,broken up
+3783,7566,7567,broken up
+3784,7568,7569,broken up
+3785,7570,7571,divorced
+3786,7572,7573,broken up
+3787,7574,7575,still dating
+3788,7576,7577,still dating
+3789,7578,7579,divorced
+3790,7580,7581,broken up
+3791,7582,7583,divorced
+3792,7584,7585,broken up
+3793,7586,7587,married
+3794,7588,7589,broken up
+3795,7590,7591,divorced
+3796,7592,7593,broken up
+3797,7594,7595,divorced
+3798,7596,7597,married
+3799,7598,7599,divorced
+3800,7600,7601,broken up
+3801,7602,7603,broken up
+3802,7604,7605,broken up
+3803,7606,7607,broken up
+3804,7608,7609,broken up
+3805,7610,7611,still dating
+3806,7612,7613,broken up
+3807,7614,7615,broken up
+3808,7616,7617,broken up
+3809,7618,7619,married
+3810,7620,7621,divorced
+3811,7622,7623,broken up
+3812,7624,7625,broken up
+3813,7626,7627,broken up
+3814,7628,7629,married
+3815,7630,7631,still dating
+3816,7632,7633,married
+3817,7634,7635,divorced
+3818,7636,7637,married
+3819,7638,7639,broken up
+3820,7640,7641,broken up
+3821,7642,7643,broken up
+3822,7644,7645,broken up
+3823,7646,7647,broken up
+3824,7648,7649,still dating
+3825,7650,7651,broken up
+3826,7652,7653,married
+3827,7654,7655,broken up
+3828,7656,7657,divorced
+3829,7658,7659,broken up
+3830,7660,7661,broken up
+3831,7662,7663,broken up
+3832,7664,7665,still dating
+3833,7666,7667,broken up
+3834,7668,7669,married
+3835,7670,7671,broken up
+3836,7672,7673,married
+3837,7674,7675,divorced
+3838,7676,7677,married
+3839,7678,7679,divorced
+3840,7680,7681,broken up
+3841,7682,7683,still dating
+3842,7684,7685,still dating
+3843,7686,7687,married
+3844,7688,7689,broken up
+3845,7690,7691,divorced
+3846,7692,7693,broken up
+3847,7694,7695,divorced
+3848,7696,7697,divorced
+3849,7698,7699,broken up
+3850,7700,7701,broken up
+3851,7702,7703,married
+3852,7704,7705,broken up
+3853,7706,7707,broken up
+3854,7708,7709,married
+3855,7710,7711,broken up
+3856,7712,7713,married
+3857,7714,7715,married
+3858,7716,7717,divorced
+3859,7718,7719,broken up
+3860,7720,7721,broken up
+3861,7722,7723,married
+3862,7724,7725,broken up
+3863,7726,7727,broken up
+3864,7728,7729,divorced
+3865,7730,7731,broken up
+3866,7732,7733,married
+3867,7734,7735,married
+3868,7736,7737,broken up
+3869,7738,7739,broken up
+3870,7740,7741,divorced
+3871,7742,7743,married
+3872,7744,7745,married
+3873,7746,7747,still dating
+3874,7748,7749,broken up
+3875,7750,7751,divorced
+3876,7752,7753,divorced
+3877,7754,7755,broken up
+3878,7756,7757,broken up
+3879,7758,7759,divorced
+3880,7760,7761,married
+3881,7762,7763,broken up
+3882,7764,7765,married
+3883,7766,7767,still dating
+3884,7768,7769,divorced
+3885,7770,7771,married
+3886,7772,7773,broken up
+3887,7774,7775,broken up
+3888,7776,7777,broken up
+3889,7778,7779,married
+3890,7780,7781,married
+3891,7782,7783,still dating
+3892,7784,7785,divorced
+3893,7786,7787,broken up
+3894,7788,7789,broken up
+3895,7790,7791,married
+3896,7792,7793,married
+3897,7794,7795,divorced
+3898,7796,7797,married
+3899,7798,7799,broken up
+3900,7800,7801,divorced
+3901,7802,7803,broken up
+3902,7804,7805,broken up
+3903,7806,7807,broken up
+3904,7808,7809,married
+3905,7810,7811,married
+3906,7812,7813,broken up
+3907,7814,7815,broken up
+3908,7816,7817,married
+3909,7818,7819,still dating
+3910,7820,7821,still dating
+3911,7822,7823,broken up
+3912,7824,7825,married
+3913,7826,7827,married
+3914,7828,7829,divorced
+3915,7830,7831,married
+3916,7832,7833,married
+3917,7834,7835,broken up
+3918,7836,7837,broken up
+3919,7838,7839,married
+3920,7840,7841,broken up
+3921,7842,7843,broken up
+3922,7844,7845,broken up
+3923,7846,7847,divorced
+3924,7848,7849,married
+3925,7850,7851,broken up
+3926,7852,7853,broken up
+3927,7854,7855,broken up
+3928,7856,7857,broken up
+3929,7858,7859,divorced
+3930,7860,7861,broken up
+3931,7862,7863,broken up
+3932,7864,7865,broken up
+3933,7866,7867,broken up
+3934,7868,7869,broken up
+3935,7870,7871,broken up
+3936,7872,7873,broken up
+3937,7874,7875,married
+3938,7876,7877,married
+3939,7878,7879,broken up
+3940,7880,7881,married
+3941,7882,7883,married
+3942,7884,7885,broken up
+3943,7886,7887,broken up
+3944,7888,7889,broken up
+3945,7890,7891,divorced
+3946,7892,7893,broken up
+3947,7894,7895,divorced
+3948,7896,7897,divorced
+3949,7898,7899,married
+3950,7900,7901,married
+3951,7902,7903,broken up
+3952,7904,7905,broken up
+3953,7906,7907,broken up
+3954,7908,7909,divorced
+3955,7910,7911,married
+3956,7912,7913,broken up
+3957,7914,7915,broken up
+3958,7916,7917,still dating
+3959,7918,7919,still dating
+3960,7920,7921,married
+3961,7922,7923,divorced
+3962,7924,7925,broken up
+3963,7926,7927,broken up
+3964,7928,7929,broken up
+3965,7930,7931,married
+3966,7932,7933,married
+3967,7934,7935,broken up
+3968,7936,7937,divorced
+3969,7938,7939,divorced
+3970,7940,7941,broken up
+3971,7942,7943,broken up
+3972,7944,7945,married
+3973,7946,7947,broken up
+3974,7948,7949,broken up
+3975,7950,7951,married
+3976,7952,7953,divorced
+3977,7954,7955,broken up
+3978,7956,7957,broken up
+3979,7958,7959,broken up
+3980,7960,7961,married
+3981,7962,7963,broken up
+3982,7964,7965,broken up
+3983,7966,7967,divorced
+3984,7968,7969,married
+3985,7970,7971,broken up
+3986,7972,7973,broken up
+3987,7974,7975,married
+3988,7976,7977,married
+3989,7978,7979,married
+3990,7980,7981,broken up
+3991,7982,7983,married
+3992,7984,7985,divorced
+3993,7986,7987,married
+3994,7988,7989,broken up
+3995,7990,7991,broken up
+3996,7992,7993,still dating
+3997,7994,7995,broken up
+3998,7996,7997,still dating
+3999,7998,7999,married
+4000,8000,8001,divorced
+4001,8002,8003,broken up
+4002,8004,8005,broken up
+4003,8006,8007,married
+4004,8008,8009,married
+4005,8010,8011,married
+4006,8012,8013,married
+4007,8014,8015,broken up
+4008,8016,8017,broken up
+4009,8018,8019,broken up
+4010,8020,8021,still dating
+4011,8022,8023,married
+4012,8024,8025,broken up
+4013,8026,8027,married
+4014,8028,8029,divorced
+4015,8030,8031,still dating
+4016,8032,8033,married
+4017,8034,8035,broken up
+4018,8036,8037,broken up
+4019,8038,8039,broken up
+4020,8040,8041,broken up
+4021,8042,8043,married
+4022,8044,8045,married
+4023,8046,8047,broken up
+4024,8048,8049,married
+4025,8050,8051,divorced
+4026,8052,8053,broken up
+4027,8054,8055,broken up
+4028,8056,8057,married
+4029,8058,8059,broken up
+4030,8060,8061,broken up
+4031,8062,8063,married
+4032,8064,8065,broken up
+4033,8066,8067,broken up
+4034,8068,8069,broken up
+4035,8070,8071,broken up
+4036,8072,8073,broken up
+4037,8074,8075,broken up
+4038,8076,8077,broken up
+4039,8078,8079,married
+4040,8080,8081,married
+4041,8082,8083,still dating
+4042,8084,8085,broken up
+4043,8086,8087,broken up
+4044,8088,8089,divorced
+4045,8090,8091,broken up
+4046,8092,8093,broken up
+4047,8094,8095,broken up
+4048,8096,8097,divorced
+4049,8098,8099,married
+4050,8100,8101,broken up
+4051,8102,8103,divorced
+4052,8104,8105,still dating
+4053,8106,8107,broken up
+4054,8108,8109,divorced
+4055,8110,8111,married
+4056,8112,8113,divorced
+4057,8114,8115,still dating
+4058,8116,8117,divorced
+4059,8118,8119,married
+4060,8120,8121,still dating
+4061,8122,8123,broken up
+4062,8124,8125,broken up
+4063,8126,8127,broken up
+4064,8128,8129,still dating
+4065,8130,8131,still dating
+4066,8132,8133,broken up
+4067,8134,8135,broken up
+4068,8136,8137,broken up
+4069,8138,8139,broken up
+4070,8140,8141,broken up
+4071,8142,8143,married
+4072,8144,8145,married
+4073,8146,8147,married
+4074,8148,8149,broken up
+4075,8150,8151,divorced
+4076,8152,8153,broken up
+4077,8154,8155,broken up
+4078,8156,8157,married
+4079,8158,8159,married
+4080,8160,8161,broken up
+4081,8162,8163,broken up
+4082,8164,8165,married
+4083,8166,8167,divorced
+4084,8168,8169,still dating
+4085,8170,8171,divorced
+4086,8172,8173,divorced
+4087,8174,8175,married
+4088,8176,8177,still dating
+4089,8178,8179,broken up
+4090,8180,8181,still dating
+4091,8182,8183,broken up
+4092,8184,8185,broken up
+4093,8186,8187,still dating
+4094,8188,8189,broken up
+4095,8190,8191,divorced
+4096,8192,8193,divorced
+4097,8194,8195,still dating
+4098,8196,8197,broken up
+4099,8198,8199,married
+4100,8200,8201,broken up
+4101,8202,8203,broken up
+4102,8204,8205,married
+4103,8206,8207,broken up
+4104,8208,8209,divorced
+4105,8210,8211,still dating
+4106,8212,8213,broken up
+4107,8214,8215,broken up
+4108,8216,8217,broken up
+4109,8218,8219,broken up
+4110,8220,8221,married
+4111,8222,8223,broken up
+4112,8224,8225,married
+4113,8226,8227,divorced
+4114,8228,8229,broken up
+4115,8230,8231,broken up
+4116,8232,8233,broken up
+4117,8234,8235,married
+4118,8236,8237,broken up
+4119,8238,8239,married
+4120,8240,8241,broken up
+4121,8242,8243,broken up
+4122,8244,8245,broken up
+4123,8246,8247,broken up
+4124,8248,8249,broken up
+4125,8250,8251,broken up
+4126,8252,8253,broken up
+4127,8254,8255,married
+4128,8256,8257,divorced
+4129,8258,8259,broken up
+4130,8260,8261,divorced
+4131,8262,8263,divorced
+4132,8264,8265,divorced
+4133,8266,8267,still dating
+4134,8268,8269,broken up
+4135,8270,8271,divorced
+4136,8272,8273,divorced
+4137,8274,8275,broken up
+4138,8276,8277,broken up
+4139,8278,8279,broken up
+4140,8280,8281,married
+4141,8282,8283,divorced
+4142,8284,8285,broken up
+4143,8286,8287,divorced
+4144,8288,8289,still dating
+4145,8290,8291,broken up
+4146,8292,8293,broken up
+4147,8294,8295,divorced
+4148,8296,8297,divorced
+4149,8298,8299,married
+4150,8300,8301,married
+4151,8302,8303,married
+4152,8304,8305,broken up
+4153,8306,8307,broken up
+4154,8308,8309,divorced
+4155,8310,8311,broken up
+4156,8312,8313,married
+4157,8314,8315,broken up
+4158,8316,8317,still dating
+4159,8318,8319,broken up
+4160,8320,8321,broken up
+4161,8322,8323,married
+4162,8324,8325,married
+4163,8326,8327,still dating
+4164,8328,8329,broken up
+4165,8330,8331,married
+4166,8332,8333,broken up
+4167,8334,8335,broken up
+4168,8336,8337,divorced
+4169,8338,8339,broken up
+4170,8340,8341,divorced
+4171,8342,8343,married
+4172,8344,8345,broken up
+4173,8346,8347,divorced
+4174,8348,8349,broken up
+4175,8350,8351,divorced
+4176,8352,8353,married
+4177,8354,8355,broken up
+4178,8356,8357,still dating
+4179,8358,8359,divorced
+4180,8360,8361,divorced
+4181,8362,8363,divorced
+4182,8364,8365,divorced
+4183,8366,8367,divorced
+4184,8368,8369,broken up
+4185,8370,8371,still dating
+4186,8372,8373,broken up
+4187,8374,8375,divorced
+4188,8376,8377,married
+4189,8378,8379,broken up
+4190,8380,8381,broken up
+4191,8382,8383,married
+4192,8384,8385,divorced
+4193,8386,8387,broken up
+4194,8388,8389,divorced
+4195,8390,8391,broken up
+4196,8392,8393,married
+4197,8394,8395,broken up
+4198,8396,8397,broken up
+4199,8398,8399,broken up
+4200,8400,8401,divorced
+4201,8402,8403,broken up
+4202,8404,8405,divorced
+4203,8406,8407,divorced
+4204,8408,8409,broken up
+4205,8410,8411,divorced
+4206,8412,8413,still dating
+4207,8414,8415,married
+4208,8416,8417,broken up
+4209,8418,8419,broken up
+4210,8420,8421,broken up
+4211,8422,8423,still dating
+4212,8424,8425,married
+4213,8426,8427,broken up
+4214,8428,8429,married
+4215,8430,8431,broken up
+4216,8432,8433,broken up
+4217,8434,8435,broken up
+4218,8436,8437,divorced
+4219,8438,8439,broken up
+4220,8440,8441,married
+4221,8442,8443,divorced
+4222,8444,8445,still dating
+4223,8446,8447,broken up
+4224,8448,8449,divorced
+4225,8450,8451,still dating
+4226,8452,8453,divorced
+4227,8454,8455,broken up
+4228,8456,8457,broken up
+4229,8458,8459,married
+4230,8460,8461,still dating
+4231,8462,8463,married
+4232,8464,8465,divorced
+4233,8466,8467,divorced
+4234,8468,8469,broken up
+4235,8470,8471,still dating
+4236,8472,8473,broken up
+4237,8474,8475,broken up
+4238,8476,8477,married
+4239,8478,8479,divorced
+4240,8480,8481,broken up
+4241,8482,8483,broken up
+4242,8484,8485,married
+4243,8486,8487,married
+4244,8488,8489,broken up
+4245,8490,8491,married
+4246,8492,8493,still dating
+4247,8494,8495,divorced
+4248,8496,8497,married
+4249,8498,8499,broken up
+4250,8500,8501,divorced
+4251,8502,8503,married
+4252,8504,8505,married
+4253,8506,8507,married
+4254,8508,8509,still dating
+4255,8510,8511,broken up
+4256,8512,8513,broken up
+4257,8514,8515,broken up
+4258,8516,8517,broken up
+4259,8518,8519,divorced
+4260,8520,8521,broken up
+4261,8522,8523,broken up
+4262,8524,8525,broken up
+4263,8526,8527,still dating
+4264,8528,8529,broken up
+4265,8530,8531,broken up
+4266,8532,8533,broken up
+4267,8534,8535,divorced
+4268,8536,8537,broken up
+4269,8538,8539,broken up
+4270,8540,8541,broken up
+4271,8542,8543,broken up
+4272,8544,8545,divorced
+4273,8546,8547,married
+4274,8548,8549,still dating
+4275,8550,8551,broken up
+4276,8552,8553,divorced
+4277,8554,8555,broken up
+4278,8556,8557,married
+4279,8558,8559,divorced
+4280,8560,8561,broken up
+4281,8562,8563,divorced
+4282,8564,8565,broken up
+4283,8566,8567,broken up
+4284,8568,8569,broken up
+4285,8570,8571,married
+4286,8572,8573,broken up
+4287,8574,8575,divorced
+4288,8576,8577,divorced
+4289,8578,8579,still dating
+4290,8580,8581,broken up
+4291,8582,8583,married
+4292,8584,8585,broken up
+4293,8586,8587,still dating
+4294,8588,8589,divorced
+4295,8590,8591,broken up
+4296,8592,8593,married
+4297,8594,8595,broken up
+4298,8596,8597,still dating
+4299,8598,8599,broken up
+4300,8600,8601,divorced
+4301,8602,8603,divorced
+4302,8604,8605,broken up
+4303,8606,8607,broken up
+4304,8608,8609,married
+4305,8610,8611,broken up
+4306,8612,8613,broken up
+4307,8614,8615,broken up
+4308,8616,8617,broken up
+4309,8618,8619,broken up
+4310,8620,8621,broken up
+4311,8622,8623,divorced
+4312,8624,8625,broken up
+4313,8626,8627,married
+4314,8628,8629,married
+4315,8630,8631,broken up
+4316,8632,8633,married
+4317,8634,8635,broken up
+4318,8636,8637,broken up
+4319,8638,8639,broken up
+4320,8640,8641,broken up
+4321,8642,8643,broken up
+4322,8644,8645,divorced
+4323,8646,8647,divorced
+4324,8648,8649,divorced
+4325,8650,8651,divorced
+4326,8652,8653,broken up
+4327,8654,8655,still dating
+4328,8656,8657,married
+4329,8658,8659,married
+4330,8660,8661,broken up
+4331,8662,8663,broken up
+4332,8664,8665,broken up
+4333,8666,8667,broken up
+4334,8668,8669,divorced
+4335,8670,8671,divorced
+4336,8672,8673,broken up
+4337,8674,8675,broken up
+4338,8676,8677,married
+4339,8678,8679,broken up
+4340,8680,8681,broken up
+4341,8682,8683,broken up
+4342,8684,8685,broken up
+4343,8686,8687,married
+4344,8688,8689,broken up
+4345,8690,8691,married
+4346,8692,8693,broken up
+4347,8694,8695,divorced
+4348,8696,8697,broken up
+4349,8698,8699,broken up
+4350,8700,8701,still dating
+4351,8702,8703,broken up
+4352,8704,8705,divorced
+4353,8706,8707,divorced
+4354,8708,8709,broken up
+4355,8710,8711,married
+4356,8712,8713,broken up
+4357,8714,8715,married
+4358,8716,8717,married
+4359,8718,8719,broken up
+4360,8720,8721,still dating
+4361,8722,8723,married
+4362,8724,8725,broken up
+4363,8726,8727,broken up
+4364,8728,8729,broken up
+4365,8730,8731,broken up
+4366,8732,8733,divorced
+4367,8734,8735,married
+4368,8736,8737,broken up
+4369,8738,8739,divorced
+4370,8740,8741,married
+4371,8742,8743,broken up
+4372,8744,8745,divorced
+4373,8746,8747,married
+4374,8748,8749,married
+4375,8750,8751,married
+4376,8752,8753,broken up
+4377,8754,8755,still dating
+4378,8756,8757,broken up
+4379,8758,8759,broken up
+4380,8760,8761,broken up
+4381,8762,8763,broken up
+4382,8764,8765,divorced
+4383,8766,8767,broken up
+4384,8768,8769,still dating
+4385,8770,8771,divorced
+4386,8772,8773,broken up
+4387,8774,8775,broken up
+4388,8776,8777,broken up
+4389,8778,8779,broken up
+4390,8780,8781,still dating
+4391,8782,8783,married
+4392,8784,8785,broken up
+4393,8786,8787,married
+4394,8788,8789,broken up
+4395,8790,8791,still dating
+4396,8792,8793,married
+4397,8794,8795,broken up
+4398,8796,8797,married
+4399,8798,8799,broken up
+4400,8800,8801,broken up
+4401,8802,8803,married
+4402,8804,8805,still dating
+4403,8806,8807,divorced
+4404,8808,8809,married
+4405,8810,8811,broken up
+4406,8812,8813,divorced
+4407,8814,8815,divorced
+4408,8816,8817,married
+4409,8818,8819,still dating
+4410,8820,8821,broken up
+4411,8822,8823,broken up
+4412,8824,8825,broken up
+4413,8826,8827,still dating
+4414,8828,8829,still dating
+4415,8830,8831,broken up
+4416,8832,8833,married
+4417,8834,8835,divorced
+4418,8836,8837,broken up
+4419,8838,8839,married
+4420,8840,8841,broken up
+4421,8842,8843,broken up
+4422,8844,8845,broken up
+4423,8846,8847,divorced
+4424,8848,8849,still dating
+4425,8850,8851,married
+4426,8852,8853,broken up
+4427,8854,8855,broken up
+4428,8856,8857,married
+4429,8858,8859,broken up
+4430,8860,8861,broken up
+4431,8862,8863,broken up
+4432,8864,8865,broken up
+4433,8866,8867,broken up
+4434,8868,8869,broken up
+4435,8870,8871,divorced
+4436,8872,8873,broken up
+4437,8874,8875,divorced
+4438,8876,8877,divorced
+4439,8878,8879,married
+4440,8880,8881,still dating
+4441,8882,8883,broken up
+4442,8884,8885,broken up
+4443,8886,8887,broken up
+4444,8888,8889,broken up
+4445,8890,8891,broken up
+4446,8892,8893,broken up
+4447,8894,8895,broken up
+4448,8896,8897,broken up
+4449,8898,8899,married
+4450,8900,8901,divorced
+4451,8902,8903,still dating
+4452,8904,8905,married
+4453,8906,8907,broken up
+4454,8908,8909,divorced
+4455,8910,8911,broken up
+4456,8912,8913,broken up
+4457,8914,8915,divorced
+4458,8916,8917,broken up
+4459,8918,8919,broken up
+4460,8920,8921,broken up
+4461,8922,8923,broken up
+4462,8924,8925,broken up
+4463,8926,8927,divorced
+4464,8928,8929,divorced
+4465,8930,8931,still dating
+4466,8932,8933,married
+4467,8934,8935,broken up
+4468,8936,8937,divorced
+4469,8938,8939,broken up
+4470,8940,8941,broken up
+4471,8942,8943,married
+4472,8944,8945,married
+4473,8946,8947,still dating
+4474,8948,8949,broken up
+4475,8950,8951,broken up
+4476,8952,8953,married
+4477,8954,8955,broken up
+4478,8956,8957,broken up
+4479,8958,8959,married
+4480,8960,8961,married
+4481,8962,8963,still dating
+4482,8964,8965,married
+4483,8966,8967,broken up
+4484,8968,8969,divorced
+4485,8970,8971,broken up
+4486,8972,8973,broken up
+4487,8974,8975,broken up
+4488,8976,8977,broken up
+4489,8978,8979,broken up
+4490,8980,8981,divorced
+4491,8982,8983,broken up
+4492,8984,8985,married
+4493,8986,8987,broken up
+4494,8988,8989,broken up
+4495,8990,8991,broken up
+4496,8992,8993,broken up
+4497,8994,8995,broken up
+4498,8996,8997,broken up
+4499,8998,8999,broken up
+4500,9000,9001,broken up
+4501,9002,9003,broken up
+4502,9004,9005,still dating
+4503,9006,9007,broken up
+4504,9008,9009,broken up
+4505,9010,9011,broken up
+4506,9012,9013,broken up
+4507,9014,9015,broken up
+4508,9016,9017,divorced
+4509,9018,9019,broken up
+4510,9020,9021,married
+4511,9022,9023,still dating
+4512,9024,9025,broken up
+4513,9026,9027,divorced
+4514,9028,9029,divorced
+4515,9030,9031,married
+4516,9032,9033,broken up
+4517,9034,9035,divorced
+4518,9036,9037,married
+4519,9038,9039,broken up
+4520,9040,9041,broken up
+4521,9042,9043,broken up
+4522,9044,9045,divorced
+4523,9046,9047,broken up
+4524,9048,9049,divorced
+4525,9050,9051,married
+4526,9052,9053,married
+4527,9054,9055,broken up
+4528,9056,9057,broken up
+4529,9058,9059,still dating
+4530,9060,9061,broken up
+4531,9062,9063,divorced
+4532,9064,9065,broken up
+4533,9066,9067,married
+4534,9068,9069,broken up
+4535,9070,9071,broken up
+4536,9072,9073,divorced
+4537,9074,9075,married
+4538,9076,9077,divorced
+4539,9078,9079,married
+4540,9080,9081,broken up
+4541,9082,9083,married
+4542,9084,9085,still dating
+4543,9086,9087,divorced
+4544,9088,9089,broken up
+4545,9090,9091,broken up
+4546,9092,9093,divorced
+4547,9094,9095,broken up
+4548,9096,9097,married
+4549,9098,9099,broken up
+4550,9100,9101,broken up
+4551,9102,9103,still dating
+4552,9104,9105,broken up
+4553,9106,9107,broken up
+4554,9108,9109,married
+4555,9110,9111,still dating
+4556,9112,9113,married
+4557,9114,9115,divorced
+4558,9116,9117,broken up
+4559,9118,9119,divorced
+4560,9120,9121,divorced
+4561,9122,9123,still dating
+4562,9124,9125,still dating
+4563,9126,9127,still dating
+4564,9128,9129,divorced
+4565,9130,9131,broken up
+4566,9132,9133,broken up
+4567,9134,9135,divorced
+4568,9136,9137,divorced
+4569,9138,9139,still dating
+4570,9140,9141,broken up
+4571,9142,9143,divorced
+4572,9144,9145,married
+4573,9146,9147,broken up
+4574,9148,9149,broken up
+4575,9150,9151,divorced
+4576,9152,9153,broken up
+4577,9154,9155,divorced
+4578,9156,9157,broken up
+4579,9158,9159,broken up
+4580,9160,9161,broken up
+4581,9162,9163,broken up
+4582,9164,9165,still dating
+4583,9166,9167,broken up
+4584,9168,9169,broken up
+4585,9170,9171,divorced
+4586,9172,9173,broken up
+4587,9174,9175,broken up
+4588,9176,9177,broken up
+4589,9178,9179,still dating
+4590,9180,9181,broken up
+4591,9182,9183,still dating
+4592,9184,9185,broken up
+4593,9186,9187,broken up
+4594,9188,9189,divorced
+4595,9190,9191,broken up
+4596,9192,9193,broken up
+4597,9194,9195,married
+4598,9196,9197,still dating
+4599,9198,9199,divorced
+4600,9200,9201,broken up
+4601,9202,9203,still dating
+4602,9204,9205,married
+4603,9206,9207,still dating
+4604,9208,9209,married
+4605,9210,9211,divorced
+4606,9212,9213,divorced
+4607,9214,9215,broken up
+4608,9216,9217,married
+4609,9218,9219,broken up
+4610,9220,9221,broken up
+4611,9222,9223,broken up
+4612,9224,9225,broken up
+4613,9226,9227,married
+4614,9228,9229,broken up
+4615,9230,9231,broken up
+4616,9232,9233,broken up
+4617,9234,9235,still dating
+4618,9236,9237,broken up
+4619,9238,9239,married
+4620,9240,9241,divorced
+4621,9242,9243,married
+4622,9244,9245,broken up
+4623,9246,9247,married
+4624,9248,9249,broken up
+4625,9250,9251,broken up
+4626,9252,9253,married
+4627,9254,9255,divorced
+4628,9256,9257,still dating
+4629,9258,9259,divorced
+4630,9260,9261,divorced
+4631,9262,9263,divorced
+4632,9264,9265,broken up
+4633,9266,9267,divorced
+4634,9268,9269,broken up
+4635,9270,9271,broken up
+4636,9272,9273,broken up
+4637,9274,9275,married
+4638,9276,9277,broken up
+4639,9278,9279,broken up
+4640,9280,9281,divorced
+4641,9282,9283,broken up
+4642,9284,9285,broken up
+4643,9286,9287,still dating
+4644,9288,9289,divorced
+4645,9290,9291,still dating
+4646,9292,9293,broken up
+4647,9294,9295,broken up
+4648,9296,9297,married
+4649,9298,9299,broken up
+4650,9300,9301,broken up
+4651,9302,9303,married
+4652,9304,9305,divorced
+4653,9306,9307,broken up
+4654,9308,9309,married
+4655,9310,9311,still dating
+4656,9312,9313,broken up
+4657,9314,9315,married
+4658,9316,9317,divorced
+4659,9318,9319,broken up
+4660,9320,9321,broken up
+4661,9322,9323,divorced
+4662,9324,9325,still dating
+4663,9326,9327,divorced
+4664,9328,9329,married
+4665,9330,9331,broken up
+4666,9332,9333,divorced
+4667,9334,9335,married
+4668,9336,9337,married
+4669,9338,9339,married
+4670,9340,9341,broken up
+4671,9342,9343,broken up
+4672,9344,9345,married
+4673,9346,9347,married
+4674,9348,9349,broken up
+4675,9350,9351,broken up
+4676,9352,9353,broken up
+4677,9354,9355,broken up
+4678,9356,9357,married
+4679,9358,9359,broken up
+4680,9360,9361,broken up
+4681,9362,9363,broken up
+4682,9364,9365,married
+4683,9366,9367,divorced
+4684,9368,9369,broken up
+4685,9370,9371,married
+4686,9372,9373,divorced
+4687,9374,9375,broken up
+4688,9376,9377,broken up
+4689,9378,9379,broken up
+4690,9380,9381,broken up
+4691,9382,9383,broken up
+4692,9384,9385,married
+4693,9386,9387,broken up
+4694,9388,9389,married
+4695,9390,9391,married
+4696,9392,9393,divorced
+4697,9394,9395,divorced
+4698,9396,9397,broken up
+4699,9398,9399,broken up
+4700,9400,9401,broken up
+4701,9402,9403,divorced
+4702,9404,9405,broken up
+4703,9406,9407,broken up
+4704,9408,9409,divorced
+4705,9410,9411,married
+4706,9412,9413,divorced
+4707,9414,9415,divorced
+4708,9416,9417,married
+4709,9418,9419,broken up
+4710,9420,9421,divorced
+4711,9422,9423,broken up
+4712,9424,9425,broken up
+4713,9426,9427,still dating
+4714,9428,9429,divorced
+4715,9430,9431,broken up
+4716,9432,9433,broken up
+4717,9434,9435,married
+4718,9436,9437,married
+4719,9438,9439,divorced
+4720,9440,9441,divorced
+4721,9442,9443,broken up
+4722,9444,9445,broken up
+4723,9446,9447,broken up
+4724,9448,9449,broken up
+4725,9450,9451,broken up
+4726,9452,9453,still dating
+4727,9454,9455,broken up
+4728,9456,9457,broken up
+4729,9458,9459,broken up
+4730,9460,9461,broken up
+4731,9462,9463,broken up
+4732,9464,9465,married
+4733,9466,9467,broken up
+4734,9468,9469,still dating
+4735,9470,9471,married
+4736,9472,9473,married
+4737,9474,9475,broken up
+4738,9476,9477,broken up
+4739,9478,9479,divorced
+4740,9480,9481,divorced
+4741,9482,9483,broken up
+4742,9484,9485,broken up
+4743,9486,9487,broken up
+4744,9488,9489,broken up
+4745,9490,9491,divorced
+4746,9492,9493,broken up
+4747,9494,9495,broken up
+4748,9496,9497,still dating
+4749,9498,9499,married
+4750,9500,9501,married
+4751,9502,9503,married
+4752,9504,9505,broken up
+4753,9506,9507,married
+4754,9508,9509,married
+4755,9510,9511,broken up
+4756,9512,9513,divorced
+4757,9514,9515,broken up
+4758,9516,9517,broken up
+4759,9518,9519,broken up
+4760,9520,9521,still dating
+4761,9522,9523,divorced
+4762,9524,9525,broken up
+4763,9526,9527,broken up
+4764,9528,9529,married
+4765,9530,9531,broken up
+4766,9532,9533,broken up
+4767,9534,9535,broken up
+4768,9536,9537,married
+4769,9538,9539,broken up
+4770,9540,9541,broken up
+4771,9542,9543,divorced
+4772,9544,9545,broken up
+4773,9546,9547,married
+4774,9548,9549,still dating
+4775,9550,9551,broken up
+4776,9552,9553,broken up
+4777,9554,9555,broken up
+4778,9556,9557,still dating
+4779,9558,9559,married
+4780,9560,9561,broken up
+4781,9562,9563,broken up
+4782,9564,9565,broken up
+4783,9566,9567,still dating
+4784,9568,9569,married
+4785,9570,9571,still dating
+4786,9572,9573,broken up
+4787,9574,9575,broken up
+4788,9576,9577,married
+4789,9578,9579,broken up
+4790,9580,9581,broken up
+4791,9582,9583,married
+4792,9584,9585,divorced
+4793,9586,9587,broken up
+4794,9588,9589,married
+4795,9590,9591,broken up
+4796,9592,9593,married
+4797,9594,9595,broken up
+4798,9596,9597,divorced
+4799,9598,9599,divorced
+4800,9600,9601,married
+4801,9602,9603,still dating
+4802,9604,9605,divorced
+4803,9606,9607,broken up
+4804,9608,9609,broken up
+4805,9610,9611,broken up
+4806,9612,9613,married
+4807,9614,9615,married
+4808,9616,9617,broken up
+4809,9618,9619,broken up
+4810,9620,9621,broken up
+4811,9622,9623,broken up
+4812,9624,9625,divorced
+4813,9626,9627,broken up
+4814,9628,9629,divorced
+4815,9630,9631,broken up
+4816,9632,9633,divorced
+4817,9634,9635,married
+4818,9636,9637,broken up
+4819,9638,9639,married
+4820,9640,9641,broken up
+4821,9642,9643,divorced
+4822,9644,9645,married
+4823,9646,9647,married
+4824,9648,9649,broken up
+4825,9650,9651,still dating
+4826,9652,9653,married
+4827,9654,9655,broken up
+4828,9656,9657,married
+4829,9658,9659,still dating
+4830,9660,9661,married
+4831,9662,9663,married
+4832,9664,9665,broken up
+4833,9666,9667,broken up
+4834,9668,9669,broken up
+4835,9670,9671,broken up
+4836,9672,9673,divorced
+4837,9674,9675,broken up
+4838,9676,9677,broken up
+4839,9678,9679,broken up
+4840,9680,9681,broken up
+4841,9682,9683,still dating
+4842,9684,9685,broken up
+4843,9686,9687,divorced
+4844,9688,9689,broken up
+4845,9690,9691,married
+4846,9692,9693,divorced
+4847,9694,9695,married
+4848,9696,9697,broken up
+4849,9698,9699,divorced
+4850,9700,9701,still dating
+4851,9702,9703,married
+4852,9704,9705,married
+4853,9706,9707,broken up
+4854,9708,9709,divorced
+4855,9710,9711,broken up
+4856,9712,9713,broken up
+4857,9714,9715,broken up
+4858,9716,9717,broken up
+4859,9718,9719,broken up
+4860,9720,9721,broken up
+4861,9722,9723,divorced
+4862,9724,9725,broken up
+4863,9726,9727,married
+4864,9728,9729,married
+4865,9730,9731,broken up
+4866,9732,9733,still dating
+4867,9734,9735,broken up
+4868,9736,9737,still dating
+4869,9738,9739,married
+4870,9740,9741,broken up
+4871,9742,9743,married
+4872,9744,9745,married
+4873,9746,9747,married
+4874,9748,9749,married
+4875,9750,9751,divorced
+4876,9752,9753,broken up
+4877,9754,9755,broken up
+4878,9756,9757,divorced
+4879,9758,9759,broken up
+4880,9760,9761,broken up
+4881,9762,9763,broken up
+4882,9764,9765,broken up
+4883,9766,9767,broken up
+4884,9768,9769,broken up
+4885,9770,9771,broken up
+4886,9772,9773,married
+4887,9774,9775,married
+4888,9776,9777,divorced
+4889,9778,9779,broken up
+4890,9780,9781,married
+4891,9782,9783,broken up
+4892,9784,9785,married
+4893,9786,9787,married
+4894,9788,9789,broken up
+4895,9790,9791,broken up
+4896,9792,9793,broken up
+4897,9794,9795,broken up
+4898,9796,9797,broken up
+4899,9798,9799,divorced
+4900,9800,9801,broken up
+4901,9802,9803,broken up
+4902,9804,9805,broken up
+4903,9806,9807,broken up
+4904,9808,9809,broken up
+4905,9810,9811,broken up
+4906,9812,9813,married
+4907,9814,9815,divorced
+4908,9816,9817,married
+4909,9818,9819,broken up
+4910,9820,9821,still dating
+4911,9822,9823,broken up
+4912,9824,9825,broken up
+4913,9826,9827,married
+4914,9828,9829,divorced
+4915,9830,9831,broken up
+4916,9832,9833,broken up
+4917,9834,9835,broken up
+4918,9836,9837,married
+4919,9838,9839,divorced
+4920,9840,9841,married
+4921,9842,9843,broken up
+4922,9844,9845,still dating
+4923,9846,9847,broken up
+4924,9848,9849,divorced
+4925,9850,9851,broken up
+4926,9852,9853,married
+4927,9854,9855,married
+4928,9856,9857,married
+4929,9858,9859,broken up
+4930,9860,9861,broken up
+4931,9862,9863,broken up
+4932,9864,9865,divorced
+4933,9866,9867,married
+4934,9868,9869,divorced
+4935,9870,9871,divorced
+4936,9872,9873,broken up
+4937,9874,9875,divorced
+4938,9876,9877,divorced
+4939,9878,9879,broken up
+4940,9880,9881,still dating
+4941,9882,9883,divorced
+4942,9884,9885,broken up
+4943,9886,9887,broken up
+4944,9888,9889,married
+4945,9890,9891,broken up
+4946,9892,9893,divorced
+4947,9894,9895,broken up
+4948,9896,9897,broken up
+4949,9898,9899,divorced
+4950,9900,9901,broken up
+4951,9902,9903,broken up
+4952,9904,9905,broken up
+4953,9906,9907,broken up
+4954,9908,9909,married
+4955,9910,9911,married
+4956,9912,9913,divorced
+4957,9914,9915,broken up
+4958,9916,9917,broken up
+4959,9918,9919,divorced
+4960,9920,9921,broken up
+4961,9922,9923,divorced
+4962,9924,9925,broken up
+4963,9926,9927,married
+4964,9928,9929,broken up
+4965,9930,9931,broken up
+4966,9932,9933,married
+4967,9934,9935,broken up
+4968,9936,9937,married
+4969,9938,9939,broken up
+4970,9940,9941,divorced
+4971,9942,9943,married
+4972,9944,9945,broken up
+4973,9946,9947,divorced
+4974,9948,9949,married
+4975,9950,9951,married
+4976,9952,9953,broken up
+4977,9954,9955,broken up
+4978,9956,9957,married
+4979,9958,9959,broken up
+4980,9960,9961,married
+4981,9962,9963,divorced
+4982,9964,9965,broken up
+4983,9966,9967,married
+4984,9968,9969,broken up
+4985,9970,9971,broken up
+4986,9972,9973,broken up
+4987,9974,9975,broken up
+4988,9976,9977,broken up
+4989,9978,9979,broken up
+4990,9980,9981,still dating
+4991,9982,9983,broken up
+4992,9984,9985,divorced
+4993,9986,9987,broken up
+4994,9988,9989,married
+4995,9990,9991,broken up
+4996,9992,9993,broken up
+4997,9994,9995,married
+4998,9996,9997,broken up
+4999,9998,9999,broken up
